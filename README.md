@@ -27,6 +27,10 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=flat&logo=google&logoColor=white)
 
+## 📊 Weekly Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📊 Current Focus
 
 - 🔍 Vector-based semantic memory systems
