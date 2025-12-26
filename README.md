@@ -8,11 +8,10 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 ## 🚀 Projects I'm Actively Working On
 
-1. **[Athena](https://github.com/winstonkoh87/Athena-Public)**: [![wakatime](https://wakatime.com/badge/github/winstonkoh87/Athena-Public.svg)](https://wakatime.com/badge/github/winstonkoh87/Athena-Public)
-   > AI-Powered Digital Personal Assistant — 198 protocols, 352+ sessions
-
-2. **[Portfolio](https://github.com/winstonkoh87/winstonkoh87.github.io)**: [![wakatime](https://wakatime.com/badge/github/winstonkoh87/winstonkoh87.github.io.svg)](https://wakatime.com/badge/github/winstonkoh87/winstonkoh87.github.io)
-   > Human strategy, AI execution — [winstonkoh87.github.io](https://winstonkoh87.github.io)
+| Project | Focus |
+|:--------|:------|
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | AI-Powered Digital Personal Assistant — 198 protocols, 352+ sessions |
+| **[Portfolio](https://winstonkoh87.github.io)** | Human strategy, AI execution |
 
 📄 **[View My Resume (PDF)](https://winstonkoh87.github.io/about.html)**
 
@@ -25,10 +24,6 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=flat&logo=google&logoColor=white)
-
-## 📊 Weekly Coding Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 📊 Current Focus
 
