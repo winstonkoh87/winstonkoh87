@@ -8,12 +8,11 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 ## 🚀 Projects I'm Actively Working On
 
-| Project | Focus |
-|:--------|:------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | AI-Powered Digital Personal Assistant — 198 protocols, 352+ sessions |
-| **[Portfolio](https://winstonkoh87.github.io)** | Human strategy, AI execution |
+1. **[Athena](https://github.com/winstonkoh87/Athena-Public)**: [![wakatime](https://wakatime.com/badge/github/winstonkoh87/Athena-Public.svg)](https://wakatime.com/badge/github/winstonkoh87/Athena-Public)
+   > AI-Powered Digital Personal Assistant — 198 protocols, 352+ sessions
 
-[![wakatime](https://wakatime.com/badge/user/winstonkoh87.svg)](https://wakatime.com/@winstonkoh87)
+2. **[Portfolio](https://github.com/winstonkoh87/winstonkoh87.github.io)**: [![wakatime](https://wakatime.com/badge/github/winstonkoh87/winstonkoh87.github.io.svg)](https://wakatime.com/badge/github/winstonkoh87/winstonkoh87.github.io)
+   > Human strategy, AI execution — [winstonkoh87.github.io](https://winstonkoh87.github.io)
 
 📄 **[View My Resume (PDF)](https://winstonkoh87.github.io/about.html)**
 
