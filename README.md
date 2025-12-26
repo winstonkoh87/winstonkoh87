@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Winston Koh 👋
 
-<!--
-**winstonkoh87/winstonkoh87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Strategic Systems Architect** | Singapore 🇸🇬
 
-Here are some ideas to get you started:
+I build AI-augmented knowledge infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do
+- **[Athena](https://github.com/winstonkoh87/Athena-Public)**: AI-Powered Digital Personal Assistant — cognitive augmentation meets knowledge management
+- **[Portfolio](https://winstonkoh87.github.io)**: Human strategy, AI execution
+
+## 🧠 Tech Stack
+'Python' 'Supabase (pgvector)' 'Gemini 3 Pro' 'GraphRAG' 'Markdown-as-Database'
+
+## 📊 Current Focus
+- Vector-based semantic memory systems
+- Human-in-the-Loop (HITLO) AI optimization
+- Protocol-driven workflow automation
+
+## 📫 Connect
+- 🌐 Portfolio: [winstonkoh87.github.io](https://winstonkoh87.github.io)
+- 📧 Email: zenithfxtrading8@gmail.com
