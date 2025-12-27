@@ -10,7 +10,7 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 | Project | Focus |
 |:--------|:------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | AI-Powered Digital Personal Assistant — 198 protocols, 352+ sessions |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | AI-Powered Digital Personal Assistant — 200+ protocols, 405+ sessions |
 | **[Portfolio](https://winstonkoh87.github.io)** | Human strategy, AI execution |
 
 📄 **[View My Resume (PDF)](https://winstonkoh87.github.io/about.html)**
