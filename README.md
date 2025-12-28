@@ -10,7 +10,7 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 | Project | Focus |
 |:--------|:------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | [![wakatime](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/Athena-Public.svg)](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/Athena-Public) | AI-Powered Digital Personal Assistant — 200+ protocols, 405+ sessions |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | [![wakatime](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/3c6e89c7-1785-4e80-9872-ab505576eeb5.svg)](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/3c6e89c7-1785-4e80-9872-ab505576eeb5) | AI-Powered Digital Personal Assistant — 200+ protocols, 405+ sessions |
 | **[Portfolio](https://winstonkoh87.github.io)** | [![wakatime](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/winstonkoh87.github.io.svg)](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/winstonkoh87.github.io) | Human strategy, AI execution |
 
 📄 **[View My Resume (PDF)](https://winstonkoh87.github.io/about.html)**
