@@ -10,8 +10,8 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 | Project | Focus |
 |:--------|:------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | AI-Powered Digital Personal Assistant — 200+ protocols, 405+ sessions |
-| **[Portfolio](https://winstonkoh87.github.io)** | Human strategy, AI execution |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | [![wakatime](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/Athena-Public.svg)](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/Athena-Public) | AI-Powered Digital Personal Assistant — 200+ protocols, 405+ sessions |
+| **[Portfolio](https://winstonkoh87.github.io)** | [![wakatime](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/winstonkoh87.github.io.svg)](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/winstonkoh87.github.io) | Human strategy, AI execution |
 
 📄 **[View My Resume (PDF)](https://winstonkoh87.github.io/about.html)**
 
@@ -60,19 +60,19 @@ I'm open to collaborating with **pragmatic builders** who care about:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.9%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+ >
 > 🏆 328 Contributions in the Year 2025
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 3 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
@@ -80,7 +80,8 @@ I'm open to collaborating with **pragmatic builders** who care about:
 🌃 Evening                113 commits         █████████░░░░░░░░░░░░░░░░   35.53 % 
 🌙 Night                  89 commits          ███████░░░░░░░░░░░░░░░░░░   27.99 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+
+📅 **I'm Most Productive on Saturday**
 
 ```text
 Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
@@ -92,8 +93,7 @@ Saturday                 67 commits          █████░░░░░░�
 Sunday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Singapore
@@ -108,18 +108,15 @@ Antigravity              41 mins             ███████████�
 winstonkoh87.github.io   41 mins             █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in HTML**
 
 ```text
 HTML                     3 repos             █████████████████████████   100.00 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/winstonkoh87/winstonkoh87/main/assets/bar_graph.png)
-
 
  Last Updated on 28/12/2025 14:18:11 UTC
 <!--END_SECTION:waka-->
