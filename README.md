@@ -56,6 +56,72 @@ I'm open to collaborating with **pragmatic builders** who care about:
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.9%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 328 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+🌆 Daytime                85 commits          ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌃 Evening                113 commits         █████████░░░░░░░░░░░░░░░░   35.53 % 
+🌙 Night                  89 commits          ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Tuesday                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Wednesday                57 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Thursday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Friday                   65 commits          █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Saturday                 67 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Sunday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+HTML                     41 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Antigravity              41 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+winstonkoh87.github.io   41 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             █████████████████████████   100.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/winstonkoh87/winstonkoh87/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/12/2025 14:18:11 UTC
 <!--END_SECTION:waka-->
 
 ---
