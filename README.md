@@ -53,4 +53,11 @@ I'm open to collaborating with **pragmatic builders** who care about:
 
 ---
 
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 > *"The best way to predict the future is to build it."*
