@@ -39,11 +39,15 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 ## 💞️ Looking to Collaborate
 
-I'm open to collaborating with **pragmatic builders** who care about:
+I'm open to collaborating with **pragmatic builders** on:
 
-- Shipping production systems (not just prototypes)
-- Knowledge infrastructure that compounds
-- The intersection of finance, AI, and psychology
+| Type | What I Bring |
+|:-----|:-------------|
+| **AI/Automation Projects** | VectorRAG architecture, semantic memory systems, protocol-driven workflows |
+| **Trading Systems** | Risk modelling, algorithmic strategies, position sizing frameworks |
+| **Technical Content** | Documentation, system architecture write-ups, developer tooling |
+
+**Ideal collaborator**: Ships fast (70% rule), values robustness over cleverness, comfortable with async communication.
 
 ## 📫 Connect
 
