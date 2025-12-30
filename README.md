@@ -6,12 +6,12 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 ---
 
-## 🚀 Projects I'm Actively Working On
+## 🚀 Active Projects
 
-| Project | Focus | Description |
-|:--------|:------|:------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | [![wakatime](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/085e0b16-fdb1-497d-b2d4-1f01e5a393e5.svg)](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f/project/085e0b16-fdb1-497d-b2d4-1f01e5a393e5) | AI-Powered Personal OS — 213 protocols, 435+ sessions |
-| **[Portfolio](https://winstonkoh87.github.io)** | [![wakatime](https://wakatime.com/badge/github/winstonkoh87/winstonkoh87.github.io.svg)](https://wakatime.com/badge/github/winstonkoh87/winstonkoh87.github.io) | Human strategy, AI execution |
+| Project | Description |
+|:--------|:------------|
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | AI-Powered Personal OS — 226 protocols, 471+ sessions |
+| **[Portfolio](https://winstonkoh87.github.io)** | Human strategy, AI execution |
 
 📄 **[View My Resume (PDF)](https://winstonkoh87.github.io/about.html)**
 
