@@ -10,7 +10,7 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 | Project | Description |
 |:--------|:------------|
-| **[Athena](https://github.com/winstonkoh87/Athena)** | AI-Powered Personal OS — 234 protocols, 480+ sessions |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | AI-Powered Personal OS — 234 protocols, 480+ sessions |
 | **[Portfolio](https://winstonkoh87.github.io)** | Human strategy, AI execution |
 
 📄 **[About Me](https://winstonkoh87.github.io/about.html)**
