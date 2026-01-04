@@ -1,5 +1,7 @@
 # Hi, I'm Winston Koh 👋
 
+<sub>Last updated: 04 Jan 2026</sub>
+
 **Strategic Systems Architect** | Singapore 🇸🇬
 
 I build AI-augmented knowledge infrastructure that compounds over time.
