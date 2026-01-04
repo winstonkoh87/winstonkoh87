@@ -13,7 +13,20 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 | **[Athena](https://github.com/winstonkoh87/Athena-Public)** | AI-Powered Personal OS — 277 protocols, 580+ sessions |
 | **[Portfolio](https://winstonkoh87.github.io)** | 7 pages, 6 articles, 5 live demo sites — built with vanilla HTML/CSS/JS |
 
-📄 **[About Me](https://winstonkoh87.github.io/about.html)** · 💬 **[Athena Live Widget](https://winstonkoh87.github.io)** (try the chat icon!)
+📄 **[About Me](https://winstonkoh87.github.io/about.html)**
+
+---
+
+## 🛠 What I Can Do For You
+
+| Service | What You Get |
+|:--------|:-------------|
+| **Website Development** | Fast, SEO-optimized sites — no templates, pure code |
+| **AI Workflow Automation** | Turn messy AI tools into reliable business processes |
+| **Technical Content** | Long-form articles, documentation, system write-ups |
+| **Research & Analysis** | Deep-dive reports with citations and strategic recommendations |
+
+> *No hand-holding. No fluff. Just systems that work.*
 
 ---
 
