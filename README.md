@@ -10,10 +10,10 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 | Project | Description |
 |:--------|:------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | AI-Powered Personal OS — 234 protocols, 480+ sessions |
-| **[Portfolio](https://winstonkoh87.github.io)** | Human strategy, AI execution |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | AI-Powered Personal OS — 277 protocols, 580+ sessions |
+| **[Portfolio](https://winstonkoh87.github.io)** | 7 pages, 6 articles, 5 live demo sites — built with vanilla HTML/CSS/JS |
 
-📄 **[About Me](https://winstonkoh87.github.io/about.html)**
+📄 **[About Me](https://winstonkoh87.github.io/about.html)** · 💬 **[Athena Live Widget](https://winstonkoh87.github.io)** (try the chat icon!)
 
 ---
 
@@ -53,7 +53,7 @@ I'm open to collaborating with **pragmatic builders** on:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-winstonkoh87.github.io-blue?style=flat&logo=github)](https://winstonkoh87.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-winstonkoh87-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/winstonkoh87)
-[![Email](https://img.shields.io/badge/Email-zenithfxtrading8%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zenithfxtrading8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-winstonkoh87%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:winstonkoh87@gmail.com)
 
 ---
 
