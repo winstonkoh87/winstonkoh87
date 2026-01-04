@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-<sub>Last updated: 04 Jan 2026</sub>
+*Last updated: 04 Jan 2026*
 
 **Strategic Systems Architect** | Singapore 🇸🇬
 
