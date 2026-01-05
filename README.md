@@ -78,6 +78,7 @@ Looking for **pragmatic builders** who:
 [![Portfolio](https://img.shields.io/badge/Portfolio-winstonkoh87.github.io-blue?style=flat&logo=github)](https://winstonkoh87.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-winstonkoh87-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/winstonkoh87)
 [![Email](https://img.shields.io/badge/Email-winstonkoh87%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:winstonkoh87@gmail.com)
+[![WakaTime](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f.svg)](https://wakatime.com/@winstonkoh87)
 
 ---
 
