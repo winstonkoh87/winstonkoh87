@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 05 Jan 2026*
+*Last updated: 06 Jan 2026*
 
 **Strategic Systems Architect** | Singapore 🇸🇬
 
@@ -13,7 +13,7 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
 | **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 332 protocols, 600+ sessions |
-| **[Portfolio](https://winstonkoh87.github.io)** | HTML, CSS, JavaScript | 8 pages, 6 articles, 5 live demo sites — zero frameworks |
+| **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, JavaScript | 8 pages, 6 articles, 5 live demo sites — performance first |
 
 **Total time in active development:**
 
@@ -29,6 +29,7 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -62,9 +63,9 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 | Capability | Proof |
 |:-----------|:------|
-| **Full-Stack Web Development** | [5 live demo sites](https://winstonkoh87.github.io/portfolio.html) |
+| **Full-Stack Web Development** | [5 live demo sites](https://winstonkoh87.github.io/portfolio) |
 | **AI Workflow Automation** | [Athena: 332 protocols](https://github.com/winstonkoh87/Athena-Public) |
-| **Technical Writing** | [6 published articles](https://winstonkoh87.github.io/writing.html) |
+| **Technical Writing** | [6 published articles](https://winstonkoh87.github.io/writing) |
 | **SEO & Analytics** | GA4, JSON-LD, meta optimization |
 
 ---
@@ -84,12 +85,12 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 ## ✍️ Recent Writing
 
-- [9.8K Views, 750 Cloners: The Day I Shipped My Brain to the World](https://winstonkoh87.github.io/articles/athena-public-launch.html)
-- [Why I Built My Own Brain (The 5 Pillars of Sovereign AI)](https://winstonkoh87.github.io/articles/athena-5-pillars.html)
-- [The Trilateral Feedback Loop: Why One AI is Not Enough](https://winstonkoh87.github.io/articles/trilateral-feedback-loop.html)
-- [The Bionic Operator: Why AI Replaces Tasks, Not Humans](https://winstonkoh87.github.io/articles/ai-bionic-layer.html)
-- [Building a Tuition Centre's Lead Engine in Under One Hour](https://winstonkoh87.github.io/articles/case-study-p6-math-tuition.html)
-- [How SG SMEs Can Build a Full Marketing Department for <$100](https://winstonkoh87.github.io/articles/sme-ai-marketing-guide.html)
+- [9.8K Views, 750 Cloners: The Day I Shipped My Brain to the World](https://winstonkoh87.github.io/articles/athena-public-launch)
+- [Why I Built My Own Brain (The 5 Pillars of Sovereign AI)](https://winstonkoh87.github.io/articles/athena-5-pillars)
+- [The Trilateral Feedback Loop: Why One AI is Not Enough](https://winstonkoh87.github.io/articles/trilateral-feedback-loop)
+- [The Bionic Operator: Why AI Replaces Tasks, Not Humans](https://winstonkoh87.github.io/articles/ai-bionic-layer)
+- [Building a Tuition Centre's Lead Engine in Under One Hour](https://winstonkoh87.github.io/articles/case-study-p6-math-tuition)
+- [How SG SMEs Can Build a Full Marketing Department for <$100](https://winstonkoh87.github.io/articles/sme-ai-marketing-guide)
 
 ---
 
