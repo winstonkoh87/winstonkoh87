@@ -14,7 +14,11 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 |:--------|:-----------|:-------------|
 | **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 332 protocols, 600+ sessions |
 | **[Portfolio](https://winstonkoh87.github.io)** | HTML, CSS, JavaScript | 8 pages, 6 articles, 5 live demo sites — zero frameworks |
-| **Coding Activity** | Antigravity, Mac | [![WakaTime](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f.svg)](https://wakatime.com/@winstonkoh87) |
+
+> [!TIP]
+> **Quantified Development**: Since Dec 27, 2025, I have invested **40+ hours** in active development—quantifying the "schlep" required to build these systems.
+>
+> [![WakaTime](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f.svg)](https://wakatime.com/@winstonkoh87)
 
 ---
 
