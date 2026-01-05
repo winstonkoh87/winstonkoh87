@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 06 Jan 2026*
+*Last updated: 05 Jan 2026*
 
 **Strategic Systems Architect** | Singapore 🇸🇬
 
@@ -13,7 +13,7 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
 | **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 332 protocols, 600+ sessions |
-| **[Portfolio](https://winstonkoh87.github.io)** | Next.js, SSG, React | 8 pages, 6 articles, 5 live demo sites — bionic UX |
+| **[Portfolio](https://winstonkoh87.github.io)** | HTML, CSS, JavaScript | 8 pages, 6 articles, 5 live demo sites — zero frameworks |
 
 **Total time in active development:**
 
