@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 04 Jan 2026*
+*Last updated: 05 Jan 2026*
 
 **Strategic Systems Architect** | Singapore 🇸🇬
 
@@ -12,8 +12,8 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 277 protocols, 580+ sessions |
-| **[Portfolio](https://winstonkoh87.github.io)** | HTML, CSS, JavaScript | 7 pages, 6 articles, 5 live demo sites — zero frameworks |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 332 protocols, 600+ sessions |
+| **[Portfolio](https://winstonkoh87.github.io)** | HTML, CSS, JavaScript | 8 pages, 6 articles, 5 live demo sites — zero frameworks |
 
 ---
 
@@ -57,7 +57,7 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 | Capability | Proof |
 |:-----------|:------|
 | **Full-Stack Web Development** | [5 live demo sites](https://winstonkoh87.github.io/portfolio.html) |
-| **AI Workflow Automation** | [Athena: 277 protocols](https://github.com/winstonkoh87/Athena-Public) |
+| **AI Workflow Automation** | [Athena: 332 protocols](https://github.com/winstonkoh87/Athena-Public) |
 | **Technical Writing** | [6 published articles](https://winstonkoh87.github.io/writing.html) |
 | **SEO & Analytics** | GA4, JSON-LD, meta optimization |
 
