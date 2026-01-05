@@ -63,6 +63,37 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 ---
 
+## 📈 Activity & Impact
+
+### Bionic Metrics (Project Athena)
+>
+> *The scale of human-AI collaborative infrastructure.*
+
+- 🧠 **610+** High-context sessions
+- 📜 **332** Extracted protocols
+- 🛠️ **119** Automation scripts
+- 🔄 **3** Major architectural refactors
+
+### GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=winstonkoh87&show_icons=true&theme=dark" alt="Winston's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winstonkoh87&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## ✍️ Recent Writing
+
+- [9.8K Views, 750 Cloners: The Day I Shipped My Brain to the World](https://winstonkoh87.github.io/articles/athena-public-launch.html)
+- [Why I Built My Own Brain (The 5 Pillars of Sovereign AI)](https://winstonkoh87.github.io/articles/athena-5-pillars.html)
+- [The Trilateral Feedback Loop: Why One AI is Not Enough](https://winstonkoh87.github.io/articles/trilateral-feedback-loop.html)
+- [The Bionic Operator: Why AI Replaces Tasks, Not Humans](https://winstonkoh87.github.io/articles/ai-bionic-layer.html)
+- [Building a Tuition Centre's Lead Engine in Under One Hour](https://winstonkoh87.github.io/articles/case-study-p6-math-tuition.html)
+- [How SG SMEs Can Build a Full Marketing Department for <$100](https://winstonkoh87.github.io/articles/sme-ai-marketing-guide.html)
+
+---
+
 ## 💞️ Open to Collaborate
 
 Looking for **pragmatic builders** who:
