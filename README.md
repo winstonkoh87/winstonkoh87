@@ -80,13 +80,6 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 - 🛠️ **119** Automation scripts
 - 🔄 **3** Major architectural refactors
 
-### GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=winstonkoh87&show_icons=true&theme=dark" alt="Winston's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winstonkoh87&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
 ---
 
 ## ✍️ Recent Writing
