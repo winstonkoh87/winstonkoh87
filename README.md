@@ -17,7 +17,9 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 **Total time in active development:**
 
+<!--START_SECTION:waka-->
 [![WakaTime](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f.svg)](https://wakatime.com/@winstonkoh87)
+<!--END_SECTION:waka-->
 
 ---
 
