@@ -12,8 +12,8 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 332 protocols, 600+ sessions |
-| **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, JavaScript | 8 pages, 6 articles, 5 live demo sites — performance first |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 278 protocols, 620+ sessions |
+| **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 6 articles, 5 live demo sites — zero-JS by default |
 
 **Total time in active development:**
 
@@ -64,7 +64,7 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 | Capability | Proof |
 |:-----------|:------|
 | **Full-Stack Web Development** | [5 live demo sites](https://winstonkoh87.github.io/portfolio) |
-| **AI Workflow Automation** | [Athena: 332 protocols](https://github.com/winstonkoh87/Athena-Public) |
+| **AI Workflow Automation** | [Athena: 278 protocols](https://github.com/winstonkoh87/Athena-Public) |
 | **Technical Writing** | [6 published articles](https://winstonkoh87.github.io/writing) |
 | **SEO & Analytics** | GA4, JSON-LD, meta optimization |
 
@@ -76,10 +76,10 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 >
 > *The scale of human-AI collaborative infrastructure.*
 
-- 🧠 **610+** High-context sessions
-- 📜 **332** Extracted protocols
-- 🛠️ **119** Automation scripts
-- 🔄 **3** Major architectural refactors
+- 🧠 **620+** High-context sessions
+- 📜 **278** Extracted protocols
+- 🛠️ **122** Automation scripts
+- 🔄 **4** Major architectural refactors
 
 ---
 
