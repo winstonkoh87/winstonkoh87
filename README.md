@@ -18,7 +18,75 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 **Total time in active development:**
 
 <!--START_SECTION:waka-->
-[![WakaTime](https://wakatime.com/badge/user/59d28359-905e-4790-b46e-27545d0d074f.svg)](https://wakatime.com/@winstonkoh87)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%206%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.36%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 478.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 149 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                53 commits          █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+🌆 Daytime                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+🌃 Evening                109 commits         ██████████░░░░░░░░░░░░░░░   39.93 % 
+🌙 Night                  77 commits          ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Tuesday                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Wednesday                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Thursday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Friday                   63 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Saturday                 56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Sunday                   64 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Markdown                 17 hrs 23 mins      █████████████░░░░░░░░░░░░   50.57 % 
+Python                   17 hrs              ████████████░░░░░░░░░░░░░   49.43 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+Antigravity              34 hrs 24 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Project Athena           33 hrs 42 mins      ████████████████████████░   97.99 % 
+Athena-Public            41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             █████████████████████████   100.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/winstonkoh87/winstonkoh87/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/01/2026 16:59:22 UTC
 <!--END_SECTION:waka-->
 
 ---
