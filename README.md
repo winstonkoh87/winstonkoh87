@@ -1,10 +1,10 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 06 Jan 2026*
+*Last updated: 07 Jan 2026*
 
-**Strategic Systems Architect** | Singapore 🇸🇬
+**Strategic Systems Architect** | AI-Augmented Workflows | Singapore 🇸🇬
 
-I build AI-augmented knowledge infrastructure that compounds over time.
+I build systems where humans think and AI executes.
 
 **Website:** [winstonkoh87.github.io](https://winstonkoh87.github.io)
 
@@ -55,12 +55,12 @@ I build AI-augmented knowledge infrastructure that compounds over time.
 
 ## 💼 What I Can Build For You
 
-| Capability | Proof |
-|:-----------|:------|
-| **Full-Stack Web Development** | [5 live demo sites](https://winstonkoh87.github.io/portfolio) |
-| **AI Workflow Automation** | [Athena: 278 protocols](https://github.com/winstonkoh87/Athena-Public) |
-| **Technical Writing** | [6 published articles](https://winstonkoh87.github.io/writing) |
-| **SEO & Analytics** | GA4, JSON-LD, meta optimization |
+| Capability | Signal |
+|:-----------|:-------|
+| **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.github.io/portfolio), zero-JS-first architecture |
+| **AI Workflow Automation** | [278 protocols](https://github.com/winstonkoh87/Athena-Public) powering 620+ sessions |
+| **Technical Writing** | [6 articles](https://winstonkoh87.github.io/writing), 9.8K views |
+| **SEO & Analytics** | GA4, JSON-LD, structured data ready |
 
 ---
 
@@ -95,6 +95,8 @@ Looking for **pragmatic builders** who:
 - Ship fast (70% rule)
 - Value robustness over cleverness
 - Are comfortable with async communication
+
+📬 **Reach out**: [winstonkoh87@gmail.com](mailto:winstonkoh87@gmail.com) or DM on [LinkedIn](https://linkedin.com/in/winstonkoh87)
 
 ---
 
