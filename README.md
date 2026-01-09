@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 07 Jan 2026*
+*Last updated: 09 Jan 2026*
 
 **Strategic Systems Architect** | AI-Augmented Workflows | Singapore 🇸🇬
 
@@ -12,7 +12,7 @@ I build systems where humans think and AI executes.
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 278 protocols, 620+ sessions |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 285 protocols, 805+ sessions |
 | **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 6 articles, 5 live demo sites — zero-JS by default |
 
 ---
@@ -58,7 +58,7 @@ I build systems where humans think and AI executes.
 | Capability | Signal |
 |:-----------|:-------|
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.github.io/portfolio), zero-JS-first architecture |
-| **AI Workflow Automation** | [278 protocols](https://github.com/winstonkoh87/Athena-Public) powering 620+ sessions |
+| **AI Workflow Automation** | [285 protocols](https://github.com/winstonkoh87/Athena-Public) powering 805+ sessions |
 | **Technical Writing** | [6 articles](https://winstonkoh87.github.io/writing), 9.8K views |
 | **SEO & Analytics** | GA4, JSON-LD, structured data ready |
 
@@ -70,8 +70,8 @@ I build systems where humans think and AI executes.
 >
 > *The scale of human-AI collaborative infrastructure.*
 
-- 🧠 **620+** High-context sessions
-- 📜 **278** Extracted protocols
+- 🧠 **805+** High-context sessions
+- 📜 **285** Extracted protocols
 - 🛠️ **122** Automation scripts
 - 🔄 **4** Major architectural refactors
 
