@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 10 Jan 2026*
+*Last updated: 12 Jan 2026*
 
 **Strategic Systems Architect** | Building Bionic Units | Singapore 🇸🇬
 
@@ -12,7 +12,7 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 285 protocols, 805+ sessions |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 290 protocols, 860+ sessions |
 | **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 6 articles, 5 live demo sites — zero-JS by default |
 
 ---
@@ -54,7 +54,7 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 | **Planning** | `DeepCode` | Research decomposition & architecture planning |
 | **Logic** | `DSPy` | Declarative prompting & self-correction optimization |
 | **Logic** | `Founder Mode` | Deep detail obsession, no "black boxes" |
-| **Memory** | `GraphRAG` | Holistic knowledge graph search (Community Detection) |
+| **Memory** | `VectorRAG` | Hybrid semantic search (RRF fusion + sharded index) |
 | **Execution** | `70% Rule` | Ship fast, iterate, break things at 70% readiness |
 
 ---
@@ -72,7 +72,7 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 | Capability | Signal |
 |:-----------|:-------|
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.github.io/portfolio), zero-JS-first architecture |
-| **AI Workflow Automation** | [285 protocols](https://github.com/winstonkoh87/Athena-Public) powering 805+ sessions |
+| **AI Workflow Automation** | [290 protocols](https://github.com/winstonkoh87/Athena-Public) powering 860+ sessions |
 | **Technical Writing** | [6 articles](https://winstonkoh87.github.io/writing), 9.8K views |
 | **SEO & Analytics** | GA4, JSON-LD, structured data ready |
 
@@ -84,10 +84,10 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 >
 > *The scale of human-AI collaborative infrastructure.*
 
-- 🧠 **805+** High-context sessions
-- 📜 **285** Extracted protocols
-- 🛠️ **122** Automation scripts
-- 🔄 **4** Major architectural refactors
+- 🧠 **860+** High-context sessions
+- 📜 **290** Extracted protocols
+- 🛠️ **92** Automation scripts (refactored)
+- 🔄 **5** Major architectural refactors
 
 ---
 
