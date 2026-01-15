@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 12 Jan 2026*
+*Last updated: 16 Jan 2026*
 
 **Strategic Systems Architect** | Building Bionic Units | Singapore 🇸🇬
 
@@ -13,7 +13,7 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
 | **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 290 protocols, 860+ sessions |
-| **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 6 articles, 5 live demo sites — zero-JS by default |
+| **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 13 articles, 6 live demo sites — zero-JS by default |
 
 ---
 
