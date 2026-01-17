@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 16 Jan 2026*
+*Last updated: 17 Jan 2026*
 
 **Strategic Systems Architect** | Building Bionic Units | Singapore 🇸🇬
 
@@ -13,7 +13,7 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
 | **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 290 protocols, 860+ sessions |
-| **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 13 articles, 6 live demo sites — zero-JS by default |
+| **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 14 articles, 6 live demo sites — zero-JS by default |
 
 ---
 
@@ -73,7 +73,7 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 |:-----------|:-------|
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.github.io/portfolio), zero-JS-first architecture |
 | **AI Workflow Automation** | [290 protocols](https://github.com/winstonkoh87/Athena-Public) powering 860+ sessions |
-| **Technical Writing** | [6 articles](https://winstonkoh87.github.io/writing), 9.8K views |
+| **Technical Writing** | [14 articles](https://winstonkoh87.github.io/writing), 9.8K views |
 | **SEO & Analytics** | GA4, JSON-LD, structured data ready |
 
 ---
@@ -99,6 +99,8 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 - [The Bionic Operator: Why AI Replaces Tasks, Not Humans](https://winstonkoh87.github.io/articles/ai-bionic-layer)
 - [Building a Tuition Centre's Lead Engine in Under One Hour](https://winstonkoh87.github.io/articles/case-study-p6-math-tuition)
 - [How SG SMEs Can Build a Full Marketing Department for <$100](https://winstonkoh87.github.io/articles/sme-ai-marketing-guide)
+- [The Anti-Slop Protocol: How to Write 3,000 Words in 3 Hours](https://winstonkoh87.github.io/articles/anti-slop-protocol)
+- [The Vibe Coder's Trap: Why AI Speed Can't Fix Business Physics](https://winstonkoh87.github.io/articles/vibe-coding-trap)
 
 ---
 
