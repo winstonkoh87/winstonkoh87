@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 17 Jan 2026*
+*Last updated: 29 Jan 2026*
 
 **Strategic Systems Architect** | Building Bionic Units | Singapore 🇸🇬
 
@@ -12,7 +12,7 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — 290 protocols, 860+ sessions |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — v8.0-alpha, 150+ protocols, 860+ sessions |
 | **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 14 articles, 6 live demo sites — zero-JS by default |
 
 ---
@@ -72,7 +72,7 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 | Capability | Signal |
 |:-----------|:-------|
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.github.io/portfolio), zero-JS-first architecture |
-| **AI Workflow Automation** | [290 protocols](https://github.com/winstonkoh87/Athena-Public) powering 860+ sessions |
+| **AI Workflow Automation** | [150+ protocols](https://github.com/winstonkoh87/Athena-Public) powering 860+ sessions |
 | **Technical Writing** | [14 articles](https://winstonkoh87.github.io/writing), 9.8K views |
 | **SEO & Analytics** | GA4, JSON-LD, structured data ready |
 
@@ -80,14 +80,25 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 
 ## 📈 Activity & Impact
 
-### Bionic Metrics (Project Athena)
+### 🏛️ Athena v8.0-alpha (Recruiter-Ready Release)
 >
-> *The scale of human-AI collaborative infrastructure.*
+> *AI-Powered Personal Operating System — now works out of the box.*
 
-- 🧠 **860+** High-context sessions
-- 📜 **290** Extracted protocols
-- 🛠️ **92** Automation scripts (refactored)
-- 🔄 **5** Major architectural refactors
+| Metric | Value | Engineering Depth |
+| :--- | :--- | :--- |
+| **Sessions Logged** | **860+** | High-context RAG (Graph + Vector + Keyword) |
+| **Protocols** | **150+** | Open-sourced decision frameworks (SFW export) |
+| **Automation** | **106** | Python scripts for workflow optimization |
+| **Simulation** | **API-Free** | Built a local mock loop to demonstrate logic |
+
+**Key Engineering Features:**
+
+- **RRF Fusion**: Hybrid retrieval combining pgvector, keyword sharding, and Leiden community detection.
+- **Atomic Writes**: POSIX-compliant data safety for all memory operations.
+- **Privacy Scrubber**: Custom Python regex engine to sanitize PII before git commits.
+- **Frontend Demo**: Interactive terminal built with vanilla JS (`athena_terminal.js`).
+
+**Try It Yourself**: `git clone && python simulation.py` — works in 10 seconds, no API keys.
 
 ---
 
