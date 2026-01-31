@@ -2,9 +2,9 @@
 
 *Last updated: 31 Jan 2026*
 
-**Strategic Systems Architect** | Building Bionic Units | Singapore 🇸🇬
+**Strategic Systems Architect** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
-I build systems where humans think and AI executes — **Sovereign AI for the individual**.
+I help humans build their own AI agents — **sovereign, persistent, and yours**.
 
 **Website:** [winstonkoh87.github.io](https://winstonkoh87.github.io)
 
@@ -12,7 +12,7 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | AI-Powered Personal OS — v8.1.0, 308+ protocols, 995+ sessions |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Build Your Own AI Agent in 5 Minutes** — 308+ protocols, 995+ sessions |
 | **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 14 articles, 6 live demo sites — zero-JS by default |
 
 ---
@@ -80,9 +80,9 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 
 ## 📈 Activity & Impact
 
-### 🏛️ Athena v8.1.0 (Recruiter-Ready Release)
+### 🏛️ Athena v8.1.0 — Build Your Own AI Agent in 5 Minutes
 >
-> *AI-Powered Personal Operating System — now works out of the box.*
+> *A framework for creating persistent, sovereign AI agents. Your AI. Your memory. Your rules.*
 
 | Metric | Value | Engineering Depth |
 | :--- | :--- | :--- |
@@ -98,7 +98,7 @@ I build systems where humans think and AI executes — **Sovereign AI for the in
 - **Privacy Scrubber**: Custom Python regex engine to sanitize PII before git commits.
 - **Frontend Demo**: Interactive terminal built with vanilla JS (`athena_terminal.js`).
 
-**Try It Yourself**: `git clone && python simulation.py` — works in 10 seconds, no API keys.
+**Try It Yourself**: Clone → `/start` → Work → `/end` — your agent is ready in 5 minutes.
 
 ---
 
