@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 31 Jan 2026*
+*Last updated: 1 Feb 2026*
 
 **Strategic Systems Architect** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -12,7 +12,7 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Build Your Own AI Agent in 5 Minutes** — 308+ protocols, 995+ sessions |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Build Your Own AI Agent in 5 Minutes** — v8.2-Stable, 245 protocols, 1000+ sessions |
 | **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 14 articles, 6 live demo sites — zero-JS by default |
 
 ---
@@ -72,7 +72,7 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 | Capability | Signal |
 |:-----------|:-------|
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.github.io/portfolio), zero-JS-first architecture |
-| **AI Workflow Automation** | [308+ protocols](https://github.com/winstonkoh87/Athena-Public) powering 995+ sessions |
+| **AI Workflow Automation** | [245 protocols](https://github.com/winstonkoh87/Athena-Public) powering 1000+ sessions |
 | **Technical Writing** | [14 articles](https://winstonkoh87.github.io/writing), 9.8K views |
 | **SEO & Analytics** | GA4, JSON-LD, structured data ready |
 
@@ -80,16 +80,16 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 
 ## 📈 Activity & Impact
 
-### 🏛️ Athena v8.1.0 — Build Your Own AI Agent in 5 Minutes
+### 🏛️ Athena v8.2-Stable — Build Your Own AI Agent in 5 Minutes
 >
 > *A framework for creating persistent, sovereign AI agents. Your AI. Your memory. Your rules.*
 
 | Metric | Value | Engineering Depth |
 | :--- | :--- | :--- |
-| **Sessions Logged** | **995+** | High-context RAG (Graph + Vector + Keyword) |
-| **Protocols** | **308+** | Open-sourced decision frameworks (SFW export) |
-| **Automation** | **120** | Python scripts for workflow optimization |
-| **Simulation** | **API-Free** | Built a local mock loop to demonstrate logic |
+| **Sessions Logged** | **1,000+** | High-context RAG (Graph + Vector + Keyword) |
+| **Protocols** | **245 unique** | Open-sourced decision frameworks (SFW export) |
+| **Python Scripts** | **651** | Full automation & tooling stack |
+| **Case Studies** | **350** | Documented friction → solution patterns |
 
 **Key Engineering Features:**
 
