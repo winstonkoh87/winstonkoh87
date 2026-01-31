@@ -88,7 +88,7 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 | :--- | :--- | :--- |
 | **Sessions Logged** | **995+** | High-context RAG (Graph + Vector + Keyword) |
 | **Protocols** | **308+** | Open-sourced decision frameworks (SFW export) |
-| **Automation** | **146** | Python scripts for workflow optimization |
+| **Automation** | **120** | Python scripts for workflow optimization |
 | **Simulation** | **API-Free** | Built a local mock loop to demonstrate logic |
 
 **Key Engineering Features:**
