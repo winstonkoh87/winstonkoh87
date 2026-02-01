@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 1 Feb 2026*
+*Last updated: 2 Feb 2026*
 
 **Strategic Systems Architect** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -89,7 +89,7 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 | **Sessions Logged** | **1,000+** | High-context RAG (Graph + Vector + Keyword) |
 | **Protocols** | **308 unique** | Open-sourced decision frameworks (SFW export) |
 | **Python Scripts** | **160+** | Full automation & tooling stack |
-| **Case Studies** | **350** | Documented friction → solution patterns |
+| **Case Studies** | **357** | Documented friction → solution patterns |
 
 **Key Engineering Features:**
 
