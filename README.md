@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 2 Feb 2026*
+*Last updated: 5 Feb 2026*
 
 **Strategic Systems Architect** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -12,7 +12,7 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Build Your Own AI Agent in 5 Minutes** — v8.2-Stable, 308 protocols, 1000+ sessions |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Build Your Own AI Agent in 5 Minutes** — v8.2-Stable, 320 protocols, 1042 sessions |
 | **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 14 articles, 6 live demo sites — zero-JS by default |
 
 ---
@@ -72,7 +72,7 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 | Capability | Signal |
 |:-----------|:-------|
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.github.io/portfolio), zero-JS-first architecture |
-| **AI Workflow Automation** | [308 protocols](https://github.com/winstonkoh87/Athena-Public) powering 1000+ sessions |
+| **AI Workflow Automation** | [320 protocols](https://github.com/winstonkoh87/Athena-Public) powering 1042 sessions |
 | **Technical Writing** | [14 articles](https://winstonkoh87.github.io/writing), 9.8K views |
 | **SEO & Analytics** | GA4, JSON-LD, structured data ready |
 
@@ -86,10 +86,10 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 
 | Metric | Value | Engineering Depth |
 | :--- | :--- | :--- |
-| **Sessions Logged** | **1,000+** | High-context RAG (Graph + Vector + Keyword) |
-| **Protocols** | **308 unique** | Open-sourced decision frameworks (SFW export) |
-| **Python Scripts** | **160+** | Full automation & tooling stack |
-| **Case Studies** | **357** | Documented friction → solution patterns |
+| **Sessions Logged** | **1,042** | High-context RAG (Graph + Vector + Keyword) |
+| **Protocols** | **320 unique** | Open-sourced decision frameworks (SFW export) |
+| **Python Scripts** | **194** | Full automation & tooling stack |
+| **Case Studies** | **358** | Documented friction → solution patterns |
 
 **Key Engineering Features:**
 
