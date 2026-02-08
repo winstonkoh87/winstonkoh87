@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 7 Feb 2026*
+*Last updated: 8 Feb 2026*
 
 **Strategic Systems Architect** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -12,7 +12,7 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Build Your Own AI Agent in 5 Minutes** — v8.2-Stable, 324 protocols, 1073 sessions |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Build Your Own AI Agent in 5 Minutes** — Curated starter pack (87 protocols, 12 scripts, 14 workflows) |
 | **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 14 articles, 6 live demo sites — zero-JS by default |
 
 ---
