@@ -15,14 +15,14 @@ last_updated: 2026-01-30
 
 I help humans build their own AI agents — **sovereign, persistent, and yours**.
 
-**Website:** [winstonkoh87.github.io](https://winstonkoh87.github.io)
+**Website:** [winstonkoh87.com](https://winstonkoh87.com)
 
 ## 🚀 Projects
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
 | **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Build Your Own AI Agent in 5 Minutes** — Curated starter pack (93 protocols, 12 scripts, 14 workflows). Tired of re-explaining your project every 4 hours? Athena fixes context amnesia. |
-| **[Portfolio](https://winstonkoh87.github.io)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 14 articles, 6 live demo sites — zero-JS by default |
+| **[Portfolio](https://winstonkoh87.com)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 14 articles, 6 live demo sites — zero-JS by default |
 
 ---
 
@@ -80,9 +80,9 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 
 | Capability | Signal |
 |:-----------|:-------|
-| **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.github.io/portfolio), zero-JS-first architecture |
+| **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.com/portfolio), zero-JS-first architecture |
 | **AI Workflow Automation** | [324 protocols](https://github.com/winstonkoh87/Athena-Public) powering 1073 sessions |
-| **Technical Writing** | [14 articles](https://winstonkoh87.github.io/writing), 9.8K views |
+| **Technical Writing** | [14 articles](https://winstonkoh87.com/writing), 9.8K views |
 | **SEO & Analytics** | GA4, JSON-LD, structured data ready |
 
 ---
@@ -113,14 +113,14 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 
 ## ✍️ Recent Writing
 
-- [9.8K Views, 750 Cloners: The Day I Shipped My Brain to the World](https://winstonkoh87.github.io/articles/athena-public-launch)
-- [Why I Built My Own Brain (The 5 Pillars of Sovereign AI)](https://winstonkoh87.github.io/articles/athena-5-pillars)
-- [The Trilateral Feedback Loop: Why One AI is Not Enough](https://winstonkoh87.github.io/articles/trilateral-feedback-loop)
-- [The Bionic Operator: Why AI Replaces Tasks, Not Humans](https://winstonkoh87.github.io/articles/ai-bionic-layer)
-- [Building a Tuition Centre's Lead Engine in Under One Hour](https://winstonkoh87.github.io/articles/case-study-p6-math-tuition)
-- [How SG SMEs Can Build a Full Marketing Department for <$100](https://winstonkoh87.github.io/articles/sme-ai-marketing-guide)
-- [The Anti-Slop Protocol: How to Write 3,000 Words in 3 Hours](https://winstonkoh87.github.io/articles/anti-slop-protocol)
-- [The Vibe Coder's Trap: Why AI Speed Can't Fix Business Physics](https://winstonkoh87.github.io/articles/vibe-coding-trap)
+- [9.8K Views, 750 Cloners: The Day I Shipped My Brain to the World](https://winstonkoh87.com/articles/athena-public-launch)
+- [Why I Built My Own Brain (The 5 Pillars of Sovereign AI)](https://winstonkoh87.com/articles/athena-5-pillars)
+- [The Trilateral Feedback Loop: Why One AI is Not Enough](https://winstonkoh87.com/articles/trilateral-feedback-loop)
+- [The Bionic Operator: Why AI Replaces Tasks, Not Humans](https://winstonkoh87.com/articles/ai-bionic-layer)
+- [Building a Tuition Centre's Lead Engine in Under One Hour](https://winstonkoh87.com/articles/case-study-p6-math-tuition)
+- [How SG SMEs Can Build a Full Marketing Department for <$100](https://winstonkoh87.com/articles/sme-ai-marketing-guide)
+- [The Anti-Slop Protocol: How to Write 3,000 Words in 3 Hours](https://winstonkoh87.com/articles/anti-slop-protocol)
+- [The Vibe Coder's Trap: Why AI Speed Can't Fix Business Physics](https://winstonkoh87.com/articles/vibe-coding-trap)
 
 ---
 
@@ -138,7 +138,7 @@ Looking for **pragmatic builders** who:
 
 ## 📫 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-winstonkoh87.github.io-blue?style=flat&logo=github)](https://winstonkoh87.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-winstonkoh87.com-blue?style=flat&logo=github)](https://winstonkoh87.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-winstonkoh87-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/winstonkoh87)
 [![Email](https://img.shields.io/badge/Email-winstonkoh87%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:winstonkoh87@gmail.com)
 
