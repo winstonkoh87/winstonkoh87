@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 10 Feb 2026*
+*Last updated: 11 Feb 2026*
 
 **Strategic Systems Architect** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -13,7 +13,7 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
 | **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Build Your Own AI Agent in 5 Minutes** — Curated starter pack (93 protocols, 12 scripts, 14 workflows). Tired of re-explaining your project every 4 hours? Athena fixes context amnesia. |
-| **[Portfolio](https://winstonkoh87.com)** | Astro 5.0, Vanilla CSS, JavaScript | 8 pages, 14 articles, 6 live demo sites — zero-JS by default |
+| **[Portfolio](https://winstonkoh87.com)** | Astro 5.0, Tailwind CSS, React | 11 pages, 26 articles, 6 live demo sites — performance-first architecture |
 
 ---
 
@@ -73,7 +73,7 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 |:-----------|:-------|
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.com/portfolio), zero-JS-first architecture |
 | **AI Workflow Automation** | [324 protocols](https://github.com/winstonkoh87/Athena-Public) powering 1073 sessions |
-| **Technical Writing** | [14 articles](https://winstonkoh87.com/writing), 9.8K views |
+| **Technical Writing** | [26 articles](https://winstonkoh87.com/writing), 9.8K views |
 | **SEO & Analytics** | GA4, JSON-LD, structured data ready |
 
 ---
