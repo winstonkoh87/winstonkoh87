@@ -4,7 +4,7 @@
 
 **Strategic Systems Architect** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
-I help humans build their own AI agents — **sovereign, persistent, and yours**.
+I build sovereign AI memory systems — **own the state, rent the intelligence**.
 
 **Website:** [winstonkoh87.com](https://winstonkoh87.com)
 
@@ -12,7 +12,7 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Build Your Own AI Agent in 5 Minutes** — Curated starter pack (93 protocols, 12 scripts, 14 workflows). Tired of re-explaining your project every 4 hours? Athena fixes context amnesia. |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Sovereign AI Memory Persistency Layer** — Platform-agnostic memory that survives across sessions, IDEs, and models. Own your data. Keep your context. 93 protocols, 14 workflows. |
 | **[Portfolio](https://winstonkoh87.com)** | Astro 5.0, Tailwind CSS, React | 11 pages, 26 articles, 6 live demo sites — performance-first architecture |
 
 ---
@@ -80,9 +80,9 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 
 ## 📈 Activity & Impact
 
-### 🏛️ Athena v8.2-Stable — Build Your Own AI Agent in 5 Minutes
+### 🏛️ Athena v8.2-Stable — Sovereign AI Memory for Any Agent
 >
-> *A framework for creating persistent, sovereign AI agents. Your AI. Your memory. Your rules.*
+> *A platform-agnostic memory persistency layer. Own the state. Rent the intelligence. Keep your data.*
 
 | Metric | Value | Engineering Depth |
 | :--- | :--- | :--- |
@@ -98,7 +98,7 @@ I help humans build their own AI agents — **sovereign, persistent, and yours**
 - **Privacy Scrubber**: Custom Python regex engine to sanitize PII before git commits.
 - **Frontend Demo**: Interactive terminal built with vanilla JS (`athena_terminal.js`).
 
-**Try It Yourself**: Clone → `/start` → Work → `/end` — your agent is ready in 5 minutes.
+**Try It Yourself**: Clone → `/start` → Work → `/end` — persistent memory from session one.
 
 ---
 
