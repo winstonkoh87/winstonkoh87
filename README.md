@@ -1,10 +1,10 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 11 Feb 2026*
+*Last updated: 12 Feb 2026*
 
 **Strategic Systems Architect** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
-I build sovereign AI memory systems — **own the state, rent the intelligence**.
+I build sovereign AI operating systems — **own the state, rent the intelligence**.
 
 **Website:** [winstonkoh87.com](https://winstonkoh87.com)
 
@@ -12,7 +12,7 @@ I build sovereign AI memory systems — **own the state, rent the intelligence**
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **Sovereign AI Memory Persistency Layer** — Platform-agnostic memory that survives across sessions, IDEs, and models. Own your data. Keep your context. 93 protocols, 14 workflows. |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **The Linux for AI Agents** — Platform-agnostic OS that gives any AI model persistent memory, scheduling, and governance. Own your data. Keep your context. 93 protocols, 14 workflows. |
 | **[Portfolio](https://winstonkoh87.com)** | Astro 5.0, Tailwind CSS, React | 11 pages, 26 articles, 6 live demo sites — performance-first architecture |
 
 ---
@@ -72,7 +72,7 @@ I build sovereign AI memory systems — **own the state, rent the intelligence**
 | Capability | Signal |
 |:-----------|:-------|
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.com/portfolio), zero-JS-first architecture |
-| **AI Workflow Automation** | [324 protocols](https://github.com/winstonkoh87/Athena-Public) powering 1073 sessions |
+| **AI Workflow Automation** | [324 protocols](https://github.com/winstonkoh87/Athena-Public) powering 1076 sessions |
 | **Technical Writing** | [26 articles](https://winstonkoh87.com/writing), 9.8K views |
 | **SEO & Analytics** | GA4, JSON-LD, structured data ready |
 
@@ -80,13 +80,13 @@ I build sovereign AI memory systems — **own the state, rent the intelligence**
 
 ## 📈 Activity & Impact
 
-### 🏛️ Athena v8.2-Stable — Sovereign AI Memory for Any Agent
+### 🏛️ Athena v8.5.0 — The Linux for AI Agents
 >
-> *A platform-agnostic memory persistency layer. Own the state. Rent the intelligence. Keep your data.*
+> *A platform-agnostic AI operating system. Own the state. Rent the intelligence. Keep your data.*
 
 | Metric | Value | Engineering Depth |
 | :--- | :--- | :--- |
-| **Sessions Logged** | **1,073** | High-context RAG (Graph + Vector + Keyword) |
+| **Sessions Logged** | **1,076** | High-context RAG (Graph + Vector + Keyword) |
 | **Protocols** | **324 unique** | Open-sourced decision frameworks (SFW export) |
 | **Python Scripts** | **192** | Full automation & tooling stack |
 | **Case Studies** | **361** | Documented friction → solution patterns |
