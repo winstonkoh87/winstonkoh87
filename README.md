@@ -12,7 +12,7 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **The Linux for AI Agents** — Platform-agnostic OS that gives any AI model persistent memory, scheduling, and governance. Own your data. Keep your context. 93 protocols, 14 workflows. |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **The Linux OS for AI Agents** — Platform-agnostic OS that gives any AI model persistent memory, scheduling, and governance. Own your data. Keep your context. 93 protocols, 14 workflows. |
 | **[Portfolio](https://winstonkoh87.com)** | Astro 5.0, Tailwind CSS, React | 11 pages, 26 articles, 6 live demo sites — performance-first architecture |
 
 ---
@@ -80,7 +80,7 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 
 ## 📈 Activity & Impact
 
-### 🏛️ Athena v8.5.0 — The Linux for AI Agents
+### 🏛️ Athena v8.5.0 — The Linux OS for AI Agents
 >
 > *A platform-agnostic AI operating system. Own the state. Rent the intelligence. Keep your data.*
 
