@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 12 Feb 2026*
+*Last updated: 13 Feb 2026*
 
 **Strategic Systems Architect** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -88,7 +88,7 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 | :--- | :--- | :--- |
 | **Sessions Logged** | **1,076** | High-context RAG (Graph + Vector + Keyword) |
 | **Protocols** | **324 unique** | Open-sourced decision frameworks (SFW export) |
-| **Python Scripts** | **192** | Full automation & tooling stack |
+| **Python Scripts** | **218** | Full automation & tooling stack |
 | **Case Studies** | **361** | Documented friction → solution patterns |
 
 **Key Engineering Features:**
@@ -99,6 +99,8 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 - **Frontend Demo**: Interactive terminal built with vanilla JS (`athena_terminal.js`).
 
 **Try It Yourself**: Clone → `/start` → Work → `/end` — persistent memory from session one.
+
+**GitHub Traffic (14-day)**: 3,259 clones (844 unique) · 7,910 views (3,882 unique visitors) · 271 ⭐ · 39 forks · ~21.7% clone conversion rate.
 
 ---
 
