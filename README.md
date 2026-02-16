@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 16 Feb 2026*
+*Last updated: 17 Feb 2026*
 
 **Sovereign Strategist** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -80,7 +80,7 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 
 ## 📈 Activity & Impact
 
-### 🏛️ Athena v8.6 — The Linux OS for AI Agents
+### 🏛️ Athena v9.2.0 — The Linux OS for AI Agents
 >
 > *A platform-agnostic AI operating system. Own the state. Rent the intelligence. Keep your data.*
 
@@ -96,6 +96,8 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 - **RRF Fusion**: Hybrid retrieval combining pgvector, keyword sharding, and Leiden community detection.
 - **Atomic Writes**: POSIX-compliant data safety for all memory operations.
 - **Privacy Scrubber**: Custom Python regex engine to sanitize PII before git commits.
+- **Semantic Cache**: Production-grade LRU with disk persistence and cosine matching.
+- **FlashRank Reranking**: Local cross-encoder for result quality.
 - **Frontend Demo**: Interactive terminal built with vanilla JS (`athena_terminal.js`).
 
 **Try It Yourself**: Clone → `/start` → Work → `/end` — persistent memory from session one.
