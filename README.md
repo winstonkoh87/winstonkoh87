@@ -1,8 +1,8 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 13 Feb 2026*
+*Last updated: 16 Feb 2026*
 
-**Strategic Systems Architect** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
+**Sovereign Strategist** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
 I build sovereign AI operating systems — **own the state, rent the intelligence**.
 
@@ -80,7 +80,7 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 
 ## 📈 Activity & Impact
 
-### 🏛️ Athena v8.5.0 — The Linux OS for AI Agents
+### 🏛️ Athena v8.6 — The Linux OS for AI Agents
 >
 > *A platform-agnostic AI operating system. Own the state. Rent the intelligence. Keep your data.*
 
