@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 20 Feb 2026*
+*Last updated: 22 Feb 2026*
 
 **Sovereign Strategist** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -12,7 +12,7 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 
 | Project | Built With | What It Does |
 |:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **The Linux OS for AI Agents** — Platform-agnostic OS that gives any AI model persistent memory, scheduling, and governance. Own your data. Keep your context. 93 protocols, 14 workflows. |
+| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **The Linux OS for AI Agents** — Platform-agnostic OS that gives any AI model persistent memory, scheduling, and governance. Own your data. Keep your context. 120+ protocols, 49 workflows. |
 | **[Portfolio](https://winstonkoh87.com)** | Astro 5.0, Tailwind CSS, React | 11 pages, 26 articles, 6 live demo sites — performance-first architecture |
 
 ---
@@ -72,7 +72,7 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 | Capability | Signal |
 |:-----------|:-------|
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.com/portfolio), zero-JS-first architecture |
-| **AI Workflow Automation** | [324 protocols](https://github.com/winstonkoh87/Athena-Public) powering 1076 sessions |
+| **AI Workflow Automation** | [120+ protocols](https://github.com/winstonkoh87/Athena-Public) powering 1,100+ sessions |
 | **Technical Writing** | [26 articles](https://winstonkoh87.com/writing), 9.8K views |
 | **SEO & Analytics** | GA4, JSON-LD, structured data ready |
 
@@ -80,14 +80,14 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 
 ## 📈 Activity & Impact
 
-### 🏛️ Athena v9.2.1 — The Linux OS for AI Agents
+### 🏛️ Athena v9.2.3 — The Linux OS for AI Agents
 >
 > *A platform-agnostic AI operating system. Own the state. Rent the intelligence. Keep your data.*
 
 | Metric | Value | Engineering Depth |
 | :--- | :--- | :--- |
-| **Sessions Logged** | **1,076** | High-context RAG (Graph + Vector + Keyword) |
-| **Protocols** | **324 unique** | Open-sourced decision frameworks (SFW export) |
+| **Sessions Logged** | **1,100+** | High-context RAG (Graph + Vector + Keyword) |
+| **Protocols** | **120+ unique** | Open-sourced decision frameworks (SFW export) |
 | **Python Scripts** | **220** | Full automation & tooling stack |
 | **Case Studies** | **361** | Documented friction → solution patterns |
 
@@ -102,7 +102,7 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 
 **Try It Yourself**: Clone → `/start` → Work → `/end` — persistent memory from session one.
 
-**GitHub**: 337 ⭐ · 45 forks · 6 releases · MIT Licensed.
+**GitHub**: 340+ ⭐ · 45+ forks · 6 releases · MIT Licensed.
 
 ---
 
