@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 1 Mar 2026*
+*Last updated: 2 Mar 2026*
 
 **Sovereign Strategist** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -103,7 +103,7 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 
 **Try It Yourself**: Clone → `/start` → Work → `/end` — persistent memory from session one.
 
-**GitHub**: 408 ⭐ · 57 forks · 7 IDE integrations · MIT Licensed.
+**GitHub**: 410 ⭐ · 57 forks · 7 IDE integrations · MIT Licensed.
 
 ---
 
