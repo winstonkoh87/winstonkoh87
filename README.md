@@ -24,7 +24,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 <td>
 • Hybrid RAG pipeline (BM25 + semantic + knowledge graph + RRF fusion)<br>
 • 85% recall @ $0 infrastructure cost (Supabase free tier)<br>
-• 148 reusable protocols, 60+ slash commands, 21 skills<br>
+• 149 reusable protocols, 63 slash commands, 26 skills<br>
 • 7 IDE integrations, MIT licensed
 </td>
 </tr>
@@ -68,17 +68,17 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 
 ---
 
-## 📊 Athena v9.6.1 — By the Numbers
+## 📊 Athena v9.6.3 — By the Numbers
 
 > *A platform-agnostic cognitive augmentation layer. Own the state. Rent the intelligence.*
 
 | Metric | Value | What It Means |
 |:---|:---|:---|
 | **Sessions** | **1,500+** | Continuous context across 90+ days of bilateral use |
-| **Protocols** | **148 unique** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
+| **Protocols** | **149 unique** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
 | **Hybrid RAG** | **85% recall** | BM25 + semantic + knowledge graph + FlashRank reranking |
-| **Skills** | **21 clustered** | Cognitive Cluster architecture — co-activated skill pipelines |
-| **Case Studies** | **546+** | Documented friction → solution patterns with empirical outcomes |
+| **Skills** | **26 clustered** | Cognitive Cluster architecture — co-activated skill pipelines |
+| **Case Studies** | **430+** | Documented friction → solution patterns with empirical outcomes |
 | **Scripts** | **650+** | Full automation stack (boot, shutdown, search, sync, hooks) |
 
 **Key Engineering:**
@@ -96,7 +96,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 | Capability | Evidence |
 |:-----------|:---------|
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + graph + RRF fusion. 85% recall, $0/month infra |
-| **Agentic AI Systems** | 148 protocols, 60+ workflows, 21 skills — full agent lifecycle (boot → work → shutdown) |
+| **Agentic AI Systems** | 149 protocols, 63 workflows, 26 skills — full agent lifecycle (boot → work → shutdown) |
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.com/portfolio), Astro/React, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
 | **Technical Writing** | [26 articles](https://winstonkoh87.com/writing), 9.8K views — clear communication of complex systems |
