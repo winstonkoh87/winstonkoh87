@@ -1,19 +1,42 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 5 Mar 2026*
+*Last updated: 28 March 2026*
 
-**Sovereign Strategist** | Creator of [Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
+**AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
-I build sovereign AI operating systems — **own the state, rent the intelligence**.
+I build agentic AI infrastructure that turns generic LLMs into personalised operating systems — **own the state, rent the intelligence**.
 
 **Website:** [winstonkoh87.com](https://winstonkoh87.com)
 
-## 🚀 Projects
+---
 
-| Project | Built With | What It Does |
-|:--------|:-----------|:-------------|
-| **[Athena](https://github.com/winstonkoh87/Athena-Public)** | Python, Supabase, Gemini, Claude | **The Linux OS for AI Agents** — Platform-agnostic OS that gives any AI model persistent memory, scheduling, and governance. Own your data. Keep your context. 135+ protocols, 52 workflows, 21 skills. |
-| **[Portfolio](https://winstonkoh87.com)** | Astro 5.0, Tailwind CSS, React | 11 pages, 26 articles, 6 live demo sites — performance-first architecture |
+## 🎯 What I Build
+
+<table>
+<tr>
+<th width="20%">Project</th>
+<th width="35%">What It Does</th>
+<th width="45%">Engineering Highlights</th>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/winstonkoh87/Athena-Public">Athena</a></strong></td>
+<td>Open-source cognitive augmentation layer — persistent memory, structured reasoning, full data ownership across any AI model (Gemini, Claude, GPT)</td>
+<td>
+• Hybrid RAG pipeline (BM25 + semantic + knowledge graph + RRF fusion)<br>
+• 85% recall @ $0 infrastructure cost (Supabase free tier)<br>
+• 148 reusable protocols, 60+ slash commands, 21 skills<br>
+• 7 IDE integrations, MIT licensed
+</td>
+</tr>
+<tr>
+<td><strong><a href="https://winstonkoh87.com">Portfolio</a></strong></td>
+<td>11-page performance-first portfolio with 26 articles and 6 live demos</td>
+<td>
+• Astro 5.0 + Tailwind CSS + React<br>
+• Zero-JS-first architecture, 99/100 Lighthouse
+</td>
+</tr>
+</table>
 
 ---
 
@@ -45,65 +68,38 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 
 ---
 
-## ⚡ Bionic Capability Stack
+## 📊 Athena v9.6.1 — By the Numbers
 
-> *The integrated AI capabilities that power the Athena framework.*
+> *A platform-agnostic cognitive augmentation layer. Own the state. Rent the intelligence.*
 
-| Layer | Protocol | Function |
-|:------|:---------|:---------|
-| **Planning** | `DeepCode` | Research decomposition & architecture planning |
-| **Logic** | `DSPy` | Declarative prompting & self-correction optimization |
-| **Logic** | `Founder Mode` | Deep detail obsession, no "black boxes" |
-| **Memory** | `VectorRAG` | Hybrid semantic search (RRF fusion + sharded index) |
-| **Execution** | `70% Rule` | Ship fast, iterate, break things at 70% readiness |
+| Metric | Value | What It Means |
+|:---|:---|:---|
+| **Sessions** | **1,500+** | Continuous context across 90+ days of bilateral use |
+| **Protocols** | **148 unique** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
+| **Hybrid RAG** | **85% recall** | BM25 + semantic + knowledge graph + FlashRank reranking |
+| **Skills** | **21 clustered** | Cognitive Cluster architecture — co-activated skill pipelines |
+| **Case Studies** | **546+** | Documented friction → solution patterns with empirical outcomes |
+| **Scripts** | **650+** | Full automation stack (boot, shutdown, search, sync, hooks) |
 
----
+**Key Engineering:**
 
-## 📊 What I'm Working On
-
-- 🔍 Vector-based semantic memory systems
-- 🤖 Human-in-the-Loop (HITLO) AI optimization
-- ⚡ Protocol-driven workflow automation
-
----
-
-## 💼 What I Can Build For You
-
-| Capability | Signal |
-|:-----------|:-------|
-| **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.com/portfolio), zero-JS-first architecture |
-| **AI Workflow Automation** | [135+ protocols](https://github.com/winstonkoh87/Athena-Public) powering 1,400+ sessions |
-| **Technical Writing** | [26 articles](https://winstonkoh87.com/writing), 9.8K views |
-| **SEO & Analytics** | GA4, JSON-LD, structured data ready |
+- **Hybrid Search**: pgvector + BM25 keyword + knowledge graph + RRF fusion — outperforms basic RAG by 48pp (92% vs 44%)
+- **Atomic Writes**: POSIX-compliant data safety for all memory operations
+- **Privacy Pipeline**: `block_secrets.py` git hook + PII regex scrubber + public/private repo guard
+- **Semantic Cache**: LRU with disk persistence, cosine matching, and Supabase delta sync
+- **Zero Infrastructure Cost**: Runs on Supabase free tier + local compute. No cloud bills.
 
 ---
 
-## 📈 Activity & Impact
+## ⚡ Capability Stack
 
-### 🏛️ Athena v9.4.2 — The Linux OS for AI Agents
->
-> *A platform-agnostic cognitive augmentation layer. Own the state. Rent the intelligence. Keep your data.*
-
-| Metric | Value | Engineering Depth |
-| :--- | :--- | :--- |
-| **Sessions Logged** | **1,400+** | High-context RAG (Graph + Vector + Keyword) |
-| **Protocols** | **135+ unique** | Open-sourced decision frameworks (SFW export) |
-| **Skills** | **21 (clustered)** | Cognitive Cluster architecture — co-activated skills pre-merged into lifecycle pipelines |
-| **Python Scripts** | **650+** | Full automation & tooling stack |
-| **Case Studies** | **400+** | Documented friction → solution patterns |
-
-**Key Engineering Features:**
-
-- **RRF Fusion**: Hybrid retrieval combining pgvector, keyword sharding, and Leiden community detection.
-- **Atomic Writes**: POSIX-compliant data safety for all memory operations.
-- **Privacy Scrubber**: Custom Python regex engine to sanitize PII before git commits.
-- **Semantic Cache**: Production-grade LRU with disk persistence and cosine matching.
-- **FlashRank Reranking**: Local cross-encoder for result quality.
-- **Frontend Demo**: Interactive terminal built with vanilla JS (`athena_terminal.js`).
-
-**Try It Yourself**: Clone → `/start` → Work → `/end` — persistent memory from session one.
-
-**GitHub**: 417 ⭐ · 57 forks · 7 IDE integrations · MIT Licensed.
+| Capability | Evidence |
+|:-----------|:---------|
+| **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + graph + RRF fusion. 85% recall, $0/month infra |
+| **Agentic AI Systems** | 148 protocols, 60+ workflows, 21 skills — full agent lifecycle (boot → work → shutdown) |
+| **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.com/portfolio), Astro/React, zero-JS-first architecture |
+| **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
+| **Technical Writing** | [26 articles](https://winstonkoh87.com/writing), 9.8K views — clear communication of complex systems |
 
 ---
 
@@ -113,8 +109,6 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 - [Why I Built My Own Brain (The 5 Pillars of Sovereign AI)](https://winstonkoh87.com/articles/athena-5-pillars)
 - [The Trilateral Feedback Loop: Why One AI is Not Enough](https://winstonkoh87.com/articles/trilateral-feedback-loop)
 - [The Bionic Operator: Why AI Replaces Tasks, Not Humans](https://winstonkoh87.com/articles/ai-bionic-layer)
-- [Building a Tuition Centre's Lead Engine in Under One Hour](https://winstonkoh87.com/articles/case-study-p6-math-tuition)
-- [How SG SMEs Can Build a Full Marketing Department for <$100](https://winstonkoh87.com/articles/sme-ai-marketing-guide)
 - [The Anti-Slop Protocol: How to Write 3,000 Words in 3 Hours](https://winstonkoh87.com/articles/anti-slop-protocol)
 - [The Vibe Coder's Trap: Why AI Speed Can't Fix Business Physics](https://winstonkoh87.com/articles/vibe-coding-trap)
 
@@ -124,7 +118,7 @@ I build sovereign AI operating systems — **own the state, rent the intelligenc
 
 Looking for **pragmatic builders** who:
 
-- Ship fast (70% rule)
+- Ship fast, iterate, break things at 70% readiness
 - Value robustness over cleverness
 - Are comfortable with async communication
 
