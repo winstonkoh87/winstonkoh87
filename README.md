@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 31 March 2026*
+*Last updated: 5 April 2026*
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -24,7 +24,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 <td>
 • Hybrid RAG pipeline (BM25 + semantic + knowledge graph + RRF fusion)<br>
 • 85% recall @ $0 infrastructure cost (Supabase free tier)<br>
-• 150+ reusable protocols, 63 slash commands, 30+ skills<br>
+• 150+ reusable protocols, 66 slash commands, 30+ skills<br>
 • Conditional skill activation (~40-60% token savings)<br>
 • 7 IDE integrations, MIT licensed
 </td>
@@ -69,7 +69,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 
 ---
 
-## 📊 Athena v9.6.5 — By the Numbers
+## 📊 Athena v9.6.6 — By the Numbers
 
 > *A platform-agnostic cognitive augmentation layer. Own the state. Rent the intelligence.*
 
@@ -99,7 +99,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 | Capability | Evidence |
 |:-----------|:---------|
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + graph + RRF fusion. 85% recall, $0/month infra |
-| **Agentic AI Systems** | 150+ protocols, 63 workflows, 30+ skills — full agent lifecycle (boot → work → shutdown) |
+| **Agentic AI Systems** | 150+ protocols, 66 workflows, 30+ skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.com/portfolio), Astro/React, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
