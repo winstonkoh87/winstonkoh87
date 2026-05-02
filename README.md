@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 5 April 2026*
+*Last updated: 2 May 2026*
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -24,7 +24,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 <td>
 • Hybrid RAG pipeline (BM25 + semantic + knowledge graph + RRF fusion)<br>
 • 85% recall @ $0 infrastructure cost (Supabase free tier)<br>
-• 150+ reusable protocols, 66 slash commands, 30+ skills<br>
+• 380+ reusable protocols, 68 slash commands, 30+ skills<br>
 • Conditional skill activation (~40-60% token savings)<br>
 • 7 IDE integrations, MIT licensed
 </td>
@@ -69,18 +69,18 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 
 ---
 
-## 📊 Athena v9.6.6 — By the Numbers
+## 📊 Athena v9.8.4 — By the Numbers
 
 > *A platform-agnostic cognitive augmentation layer. Own the state. Rent the intelligence.*
 
 | Metric | Value | What It Means |
 |:---|:---|:---|
-| **Sessions** | **1,500+** | Continuous context across 90+ days of bilateral use |
-| **Protocols** | **150+ unique** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
+| **Sessions** | **1,700+** | Continuous context across 130+ days of bilateral use |
+| **Protocols** | **380+ active** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
 | **Hybrid RAG** | **85% recall** | BM25 + semantic + knowledge graph + FlashRank reranking |
-| **Skills** | **30+ clustered** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
-| **Case Studies** | **430+** | Documented friction → solution patterns with empirical outcomes |
-| **Scripts** | **650+** | Full automation stack (boot, shutdown, search, sync, hooks) |
+| **Skills** | **31 clustered** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
+| **Case Studies** | **450+** | Documented friction → solution patterns with empirical outcomes |
+| **Scripts** | **220+** | Python automation stack (boot, shutdown, search, sync, hooks) |
 
 **Key Engineering:**
 
@@ -99,7 +99,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 | Capability | Evidence |
 |:-----------|:---------|
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + graph + RRF fusion. 85% recall, $0/month infra |
-| **Agentic AI Systems** | 150+ protocols, 66 workflows, 30+ skills — full agent lifecycle (boot → work → shutdown) |
+| **Agentic AI Systems** | 380+ protocols, 68 workflows, 31 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.com/portfolio), Astro/React, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
