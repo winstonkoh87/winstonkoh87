@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 2 May 2026*
+*Last updated: 8 May 2026*
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -69,13 +69,13 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 
 ---
 
-## 📊 Athena v9.8.4 — By the Numbers
+## 📊 Athena v9.8.5 — By the Numbers
 
 > *A platform-agnostic cognitive augmentation layer. Own the state. Rent the intelligence.*
 
 | Metric | Value | What It Means |
 |:---|:---|:---|
-| **Sessions** | **1,700+** | Continuous context across 130+ days of bilateral use |
+| **Sessions** | **1,800+** | Continuous context across 140+ days of bilateral use |
 | **Protocols** | **380+ active** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
 | **Hybrid RAG** | **85% recall** | BM25 + semantic + knowledge graph + FlashRank reranking |
 | **Skills** | **31 clustered** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
@@ -101,7 +101,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + graph + RRF fusion. 85% recall, $0/month infra |
 | **Agentic AI Systems** | 380+ protocols, 68 workflows, 31 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
-| **Full-Stack Web Development** | [5 production sites](https://winstonkoh87.com/portfolio), Astro/React, zero-JS-first architecture |
+| **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro/React, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
 | **Technical Writing** | [26 articles](https://winstonkoh87.com/writing), 9.8K+ views — clear communication of complex systems |
 
