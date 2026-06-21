@@ -33,7 +33,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 <td><strong><a href="https://winstonkoh87.com">Portfolio</a></strong></td>
 <td>11-page performance-first portfolio with 26 articles and 6 live demos</td>
 <td>
-• Astro 5.0 + Tailwind CSS + React<br>
+• Astro 5.0 + Tailwind CSS (zero-JS islands)<br>
 • Zero-JS-first architecture, 99/100 Lighthouse
 </td>
 </tr>
@@ -101,7 +101,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + graph + RRF fusion. 85% recall, $0/month infra |
 | **Agentic AI Systems** | 396+ protocols, 69 workflows, 42 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
-| **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro/React, zero-JS-first architecture |
+| **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
 | **Technical Writing** | [26 articles](https://winstonkoh87.com/writing), 9.8K+ views — clear communication of complex systems |
 
