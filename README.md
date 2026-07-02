@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 21 June 2026*
+*Last updated: 3 July 2026*
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -24,8 +24,9 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 <td>
 • Hybrid RAG pipeline (BM25 + semantic + knowledge graph + RRF fusion)<br>
 • 85% recall @ $0 infrastructure cost (Supabase free tier)<br>
-• 396+ reusable protocols, 69 slash commands, 42 skills<br>
+• 412 reusable protocols, 69 slash commands, 42 skills<br>
 • Conditional skill activation (~40-60% token savings)<br>
+• 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
 </td>
 </tr>
@@ -69,18 +70,19 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 
 ---
 
-## 📊 Athena v9.9.4 — By the Numbers
+## 📊 Athena v9.9.5 — By the Numbers
 
 > *A platform-agnostic cognitive augmentation layer. Own the state. Rent the intelligence.*
 
 | Metric | Value | What It Means |
 |:---|:---|:---|
-| **Sessions** | **1,900+** | Continuous context across 170+ days of bilateral use |
-| **Protocols** | **396+ active** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
-| **Hybrid RAG** | **85% recall** | BM25 + semantic + knowledge graph + FlashRank reranking |
+| **Sessions** | **1,900+** | Continuous context across 180+ days of bilateral use |
+| **Protocols** | **412 active** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
+| **Hybrid RAG** | **85% recall** | BM25 + semantic + knowledge graph + cross-encoder reranking |
 | **Skills** | **42 clustered** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
-| **Case Studies** | **491** | Documented friction → solution patterns with empirical outcomes |
-| **Scripts** | **245** | Python automation stack (boot, shutdown, search, sync, hooks) |
+| **Case Studies** | **478** | Documented friction → solution patterns with empirical outcomes (post-dedup) |
+| **Scripts** | **247** | Python automation stack (boot, shutdown, search, sync, hooks) |
+| **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering:**
 
@@ -99,7 +101,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 | Capability | Evidence |
 |:-----------|:---------|
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + graph + RRF fusion. 85% recall, $0/month infra |
-| **Agentic AI Systems** | 396+ protocols, 69 workflows, 42 skills — full agent lifecycle (boot → work → shutdown) |
+| **Agentic AI Systems** | 412 protocols, 69 workflows, 42 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
