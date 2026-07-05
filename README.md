@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 3 July 2026*
+*Last updated: 5 July 2026*
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -22,7 +22,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 <td><strong><a href="https://github.com/winstonkoh87/Athena-Public">Athena</a></strong></td>
 <td>Open-source cognitive augmentation layer — persistent memory, structured reasoning, full data ownership across any AI model (Gemini, Claude, GPT)</td>
 <td>
-• Hybrid RAG pipeline (BM25 + semantic + knowledge graph + RRF fusion)<br>
+• Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • 85% recall @ $0 infrastructure cost (Supabase free tier)<br>
 • 412 reusable protocols, 69 slash commands, 42 skills<br>
 • Conditional skill activation (~40-60% token savings)<br>
@@ -70,7 +70,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 
 ---
 
-## 📊 Athena v9.9.5 — By the Numbers
+## 📊 Athena v9.9.6 — By the Numbers
 
 > *A platform-agnostic cognitive augmentation layer. Own the state. Rent the intelligence.*
 
@@ -78,7 +78,7 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 |:---|:---|:---|
 | **Sessions** | **1,900+** | Continuous context across 180+ days of bilateral use |
 | **Protocols** | **412 active** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
-| **Hybrid RAG** | **85% recall** | BM25 + semantic + knowledge graph + cross-encoder reranking |
+| **Hybrid RAG** | **85% recall** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder reranking |
 | **Skills** | **42 clustered** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
 | **Case Studies** | **478** | Documented friction → solution patterns with empirical outcomes (post-dedup) |
 | **Scripts** | **247** | Python automation stack (boot, shutdown, search, sync, hooks) |
@@ -86,8 +86,9 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 
 **Key Engineering:**
 
-- **Hybrid Search**: pgvector + BM25 keyword + knowledge graph + RRF fusion — outperforms basic RAG by 48pp (92% vs 44%)
+- **Hybrid Search**: pgvector + BM25 keyword + RRF fusion + cross-encoder rerank — 85% recall in internal evals, hardened through logged production regressions
 - **Conditional Skill Activation**: Path/topic-triggered dormant skills reduce prompt bloat by ~40-60% (Protocol 530)
+- **Epistemic Honesty as a Feature**: public [Validation Status](https://github.com/winstonkoh87/Athena-Public#-validation-status--whats-proven-vs-whats-proposed) ladder grades every claim by evidence level; 18 Crossref-verified academic references ([APA list](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/REFERENCES.md)); mechanisms labeled code-enforced vs agent-discretion
 - **Multi-Agent Orchestration**: Coordinator synthesis discipline with anti-delegation enforcement and token budgeting
 - **Atomic Writes**: POSIX-compliant data safety for all memory operations
 - **Privacy Pipeline**: `block_secrets.py` git hook + PII regex scrubber + public/private repo guard
