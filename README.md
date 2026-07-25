@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 5 July 2026*
+*Last updated: 25 July 2026*
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -23,8 +23,8 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 <td>Open-source cognitive augmentation layer — persistent memory, structured reasoning, full data ownership across any AI model (Gemini, Claude, GPT)</td>
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
-• 85% recall @ $0 infrastructure cost (Supabase free tier)<br>
-• 412 reusable protocols, 69 slash commands, 42 skills<br>
+• Hit@5 0.908 / MRR@5 0.796 on a 65-query gold set, @ $0 infra (Supabase free tier)<br>
+• 414 reusable protocols, 72 slash commands, 43 skills<br>
 • Conditional skill activation (~40-60% token savings)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
@@ -70,28 +70,29 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 
 ---
 
-## 📊 Athena v9.9.6 — By the Numbers
+## 📊 Athena v9.9.8 — By the Numbers
 
 > *A platform-agnostic cognitive augmentation layer. Own the state. Rent the intelligence.*
 
 | Metric | Value | What It Means |
 |:---|:---|:---|
-| **Sessions** | **1,900+** | Continuous context across 180+ days of bilateral use |
-| **Protocols** | **412 active** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
-| **Hybrid RAG** | **85% recall** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder reranking |
-| **Skills** | **42 clustered** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
-| **Case Studies** | **478** | Documented friction → solution patterns with empirical outcomes (post-dedup) |
-| **Scripts** | **247** | Python automation stack (boot, shutdown, search, sync, hooks) |
+| **Sessions** | **2,090+** | Continuous context across 200+ days of bilateral use |
+| **Protocols** | **414 active** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
+| **Hybrid RAG** | **Hit@5 0.908** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.796, coverage 0.639, [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
+| **Skills** | **43 clustered** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
+| **Case Studies** | **489** | Documented friction → solution patterns with empirical outcomes (post-dedup) |
+| **Scripts** | **259** | Python automation stack (boot, shutdown, search, sync, hooks) |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering:**
 
-- **Hybrid Search**: pgvector + BM25 keyword + RRF fusion + cross-encoder rerank — 85% recall in internal evals, hardened through logged production regressions
+- **Hybrid Search**: pgvector + BM25 keyword + RRF fusion + cross-encoder rerank — Hit@5 0.908 / MRR@5 0.796 on a published 65-query gold set, hardened through logged production regressions
 - **Conditional Skill Activation**: Path/topic-triggered dormant skills reduce prompt bloat by ~40-60% (Protocol 530)
 - **Epistemic Honesty as a Feature**: public [Validation Status](https://github.com/winstonkoh87/Athena-Public#-validation-status--whats-proven-vs-whats-proposed) ladder grades every claim by evidence level; 18 Crossref-verified academic references ([APA list](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/REFERENCES.md)); mechanisms labeled code-enforced vs agent-discretion
+- **Guards That Can Actually Fail** ([v9.9.8](https://github.com/winstonkoh87/Athena-Public/releases/tag/v9.9.8)): an audit found five green checks that could not detect the defect they named — a CI step running the writer instead of the check, a version check scoped to the three files that already agreed, `ruff --exit-zero`, tests asserting a return *type* instead of a behaviour, and a privacy scanner excluding its own config. Standing rule now: any fix to a guard must show it failing before it shows it passing, mutation-tested and recorded in the commit
 - **Multi-Agent Orchestration**: Coordinator synthesis discipline with anti-delegation enforcement and token budgeting
 - **Atomic Writes**: POSIX-compliant data safety for all memory operations
-- **Privacy Pipeline**: `block_secrets.py` git hook + PII regex scrubber + public/private repo guard
+- **Privacy Pipeline**: CI privacy gate over 41 patterns, with the committed blocklist restricted to shape-only matchers — a public blocklist that names people is an index of what you're hiding, so name patterns live in a repo secret and the scanner audits its own config
 - **Semantic Cache**: LRU with disk persistence, cosine matching, and Supabase delta sync
 - **Zero Infrastructure Cost**: Runs on Supabase free tier + local compute. No cloud bills.
 
@@ -101,8 +102,8 @@ I build agentic AI infrastructure that turns generic LLMs into personalised oper
 
 | Capability | Evidence |
 |:-----------|:---------|
-| **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + graph + RRF fusion. 85% recall, $0/month infra |
-| **Agentic AI Systems** | 412 protocols, 69 workflows, 42 skills — full agent lifecycle (boot → work → shutdown) |
+| **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + RRF fusion + rerank. Hit@5 0.908, $0/month infra |
+| **Agentic AI Systems** | 414 protocols, 72 workflows, 43 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
