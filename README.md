@@ -20,7 +20,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 </tr>
 <tr>
 <td><strong><a href="https://github.com/winstonkoh87/Athena-Public">Athena</a></strong></td>
-<td>Open-source local-first agentic PKM — persistent memory, structured reasoning, and governed agents that work across any LLM (Gemini, Claude, GPT). Full data ownership.</td>
+<td>Open-source local-first agentic PKM — persistent memory, structured reasoning, and governed AI agents that work across any LLM (Gemini, Claude, GPT). Full data ownership.</td>
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Hit@5 0.892 / MRR@5 0.769 on a 65-query gold set, @ $0 infra (Supabase free tier)<br>
