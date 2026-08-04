@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 27 July 2026*
+*Last updated: 4 August 2026*
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -24,7 +24,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Hit@5 0.892 / MRR@5 0.769 on a 65-query gold set, @ $0 infra (Supabase free tier)<br>
-• 414 reusable protocols, 72 slash commands, 43 skills<br>
+• 448 reusable protocols, 72 slash commands, 43 skills<br>
 • Conditional skill activation (~40-60% token savings)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
@@ -77,11 +77,11 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 | Metric | Value | What It Means |
 |:---|:---|:---|
 | **Sessions** | **2,090+** | Continuous context across 200+ days of bilateral use |
-| **Protocols** | **414 active** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
+| **Protocols** | **448 (414 active)** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
 | **Hybrid RAG** | **Hit@5 0.892** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.769, coverage 0.618, [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
-| **Skills** | **43 clustered** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
-| **Case Studies** | **489** | Documented friction → solution patterns with empirical outcomes (post-dedup) |
-| **Scripts** | **259** | Python automation stack (boot, shutdown, search, sync, hooks) |
+| **Skills** | **43 active** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
+| **Workflows** | **72 commands** | One-word slash triggers: `/start`, `/ultrastart`, `/end`, `/ultraend`, `/think`, `/research` |
+| **Scripts** | **260** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering:**
