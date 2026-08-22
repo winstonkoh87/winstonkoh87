@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 22 August 2026*
+*Last updated: 23 August 2026*
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -78,7 +78,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
 | **Protocols** | **448 (414 active)** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
-| **Hybrid RAG** | **Hit@5 0.892** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.769, coverage 0.618, [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
+| **Hybrid RAG** | **Hit@5 0.892** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.769, coverage 0.639, [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **43 active** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
 | **Workflows** | **72 commands** | One-word slash triggers: `/start`, `/ultrastart`, `/end`, `/ultraend`, `/think`, `/research` |
 | **Scripts** | **260** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
