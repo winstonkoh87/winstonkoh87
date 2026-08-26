@@ -24,7 +24,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Hit@5 0.892 / MRR@5 0.769 on a 65-query gold set, @ $0 infra (Supabase free tier)<br>
-• 448 reusable protocols, 73 slash commands, 43 skills<br>
+• 448 reusable protocols, 74 slash commands, 43 skills<br>
 • Conditional skill activation (~40-60% token savings)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
@@ -80,7 +80,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 | **Protocols** | **448 (414 active)** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
 | **Hybrid RAG** | **Hit@5 0.892** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.769, coverage 0.639, [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **43 active** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
-| **Workflows** | **73 commands** | One-word slash triggers: `/start`, `/ultrastart`, `/end`, `/ultraend`, `/think`, `/research` |
+| **Workflows** | **74 commands** | One-word slash triggers: `/start`, `/ultrastart`, `/end`, `/ultraend`, `/think`, `/research` |
 | **Scripts** | **264** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
@@ -103,7 +103,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 | Capability | Evidence |
 |:-----------|:---------|
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + RRF fusion + rerank. Hit@5 0.892, $0/month infra |
-| **Agentic AI Systems** | 414 protocols, 73 workflows, 43 skills — full agent lifecycle (boot → work → shutdown) |
+| **Agentic AI Systems** | 414 protocols, 74 workflows, 43 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
