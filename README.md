@@ -70,18 +70,19 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 
 ---
 
-## 📊 Athena v9.9.9 — By the Numbers
+## 📊 Athena v9.9.8 — By the Numbers
 
 > *A local-first agentic PKM that helps you make better decisions with your own context. Own the state. Rent the intelligence.*
 
 | Metric | Value | What It Means |
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
-| **Protocols** | **452 (418 active)** | Open-sourced decision frameworks (reasoning, risk, execution, research) |
+| **Protocols** | **452 (418 active)** | Open-sourced decision frameworks across 26 categories (reasoning, risk, execution, research) |
 | **Hybrid RAG** | **Hit@5 0.892** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.769, coverage 0.639, [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
-| **Skills** | **43 active** | Cognitive Cluster architecture — co-activated skill pipelines with conditional activation |
-| **Workflows** | **74 commands** | One-word slash triggers: `/start`, `/ultrastart`, `/end`, `/ultraend`, `/think`, `/research` |
-| **Scripts** | **268** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
+| **Skills** | **43 active** | Cognitive Cluster architecture — 43 active (17 archived) with conditional activation |
+| **Workflows** | **74 commands** | Slash triggers: 55 root + 19 domain-tier workflows |
+| **Automation** | **268 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
+| **Memory Corpus** | **4,361 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering:**
