@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 28 August 2026*
+*Last updated: 29 August 2026*
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -70,7 +70,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 
 ---
 
-## 📊 Athena v9.9.8 — By the Numbers
+## 📊 Athena v9.9.9 — By the Numbers
 
 > *A local-first agentic PKM that helps you make better decisions with your own context. Own the state. Rent the intelligence.*
 
@@ -82,7 +82,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 | **Skills** | **43 active** | Cognitive Cluster architecture — 43 active (17 archived) with conditional activation |
 | **Workflows** | **74 commands** | Slash triggers: 55 root + 19 domain-tier workflows |
 | **Automation** | **268 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **4,361 files** | Grounded episodic and semantic knowledge corpus |
+| **Memory Corpus** | **4,365 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering:**
