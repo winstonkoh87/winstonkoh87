@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 13 September 2026* <!-- 2026-09-13 -->
+*Last updated: 14 September 2026* <!-- 2026-09-14 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -70,7 +70,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 
 ---
 
-## 📊 Athena v9.9.8 — By the Numbers
+## 📊 Athena v9.9.9 — By the Numbers
 
 > *A local-first agentic PKM that helps you make better decisions with your own context. Own the state. Rent the intelligence.*
 
@@ -83,11 +83,12 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 | **Skills** | **43 active** | Cognitive Cluster architecture — 43 active (17 archived) with conditional activation |
 | **Workflows** | **74 commands** | Slash triggers: 55 root + 19 domain-tier workflows |
 | **Automation** | **275 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **4,695 files** | Grounded episodic and semantic knowledge corpus |
+| **Memory Corpus** | **4,735 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
-**Key Engineering:**
+**Key Engineering & Focus Areas:**
 
+- **Current Focus**: Stochastic Epistemology & Variance Architecture, Prop-Firm Quantitative Risk Models, Bionic Operator Framework, and Biomechanical Strength Standards
 - **Hybrid Search**: pgvector + BM25 keyword + RRF fusion + cross-encoder rerank — Hit@5 0.892 / MRR@5 0.769 on a published 65-query gold set, hardened through logged production regressions
 - **Conditional Skill Activation**: Path/topic-triggered dormant skills reduce prompt bloat by ~40-60% (Protocol 530)
 - **Epistemic Honesty as a Feature**: public [Validation Status](https://github.com/winstonkoh87/Athena-Public#-validation-status--whats-proven-vs-whats-proposed) ladder grades every claim by evidence level; 18 Crossref-verified academic references ([APA list](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/REFERENCES.md)); mechanisms labeled code-enforced vs agent-discretion
