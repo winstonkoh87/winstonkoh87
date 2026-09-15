@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 15 September 2026* <!-- 2026-09-15 -->
+*Last updated: 16 September 2026* <!-- 2026-09-16 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -24,7 +24,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Hit@5 0.892 / MRR@5 0.769 on a 65-query gold set, @ $0 infra (Supabase free tier)<br>
-• 453 reusable protocols (419 active across 26 categories), 74 slash commands, 43 skills, 502 case studies<br>
+• 453 reusable protocols (419 active across 26 categories), 74 slash commands, 43 skills, 503 case studies<br>
 • Conditional skill activation (~40-60% token savings)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
@@ -78,12 +78,12 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
 | **Protocols** | **453 (419 active)** | Open-sourced decision frameworks across 26 categories (reasoning, risk, execution, research) |
-| **Case Studies** | **502 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
+| **Case Studies** | **503 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
 | **Hybrid RAG** | **Hit@5 0.892** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.769, coverage 0.639, [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **43 active** | Cognitive Cluster architecture — 43 active (17 archived) with conditional activation |
 | **Workflows** | **74 commands** | Slash triggers: 55 root + 19 domain-tier workflows |
 | **Automation** | **276 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **4,757 files** | Grounded episodic and semantic knowledge corpus |
+| **Memory Corpus** | **4,774 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering & Focus Areas:**
