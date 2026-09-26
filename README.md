@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 25 September 2026* <!-- 2026-09-25 -->
+*Last updated: 27 September 2026* <!-- 2026-09-27 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -24,7 +24,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Hit@5 0.892 / MRR@5 0.769 on a 65-query gold set, @ $0 infra (Supabase free tier)<br>
-• 455 reusable protocols (421 active across 26 categories), 74 slash commands, 43 skills, 503 case studies<br>
+• 456 reusable protocols (422 active across 26 categories), 75 slash commands, 43 skills, 503 case studies<br>
 • Conditional skill activation (~40-60% token savings)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
@@ -77,13 +77,13 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 | Metric | Value | What It Means |
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
-| **Protocols** | **455 (421 active)** | Open-sourced decision frameworks across 26 categories (reasoning, risk, execution, research) |
+| **Protocols** | **456 (422 active)** | Open-sourced decision frameworks across 26 categories (reasoning, risk, execution, research) |
 | **Case Studies** | **503 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
 | **Hybrid RAG** | **Hit@5 0.892** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.769, coverage 0.639, [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **43 active** | Cognitive Cluster architecture — 43 active (17 archived) with conditional activation |
-| **Workflows** | **74 commands** | Slash triggers: 55 root + 19 domain-tier workflows |
-| **Automation** | **279 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **4,960 files** | Grounded episodic and semantic knowledge corpus |
+| **Workflows** | **75 commands** | Slash triggers: 55 root + 20 domain-tier workflows |
+| **Automation** | **285 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
+| **Memory Corpus** | **5,015 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering & Focus Areas:**
@@ -106,7 +106,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 | Capability | Evidence |
 |:-----------|:---------|
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + RRF fusion + rerank. Hit@5 0.892, $0/month infra |
-| **Agentic AI Systems** | 421 active protocols, 74 workflows, 43 skills — full agent lifecycle (boot → work → shutdown) |
+| **Agentic AI Systems** | 422 active protocols, 75 workflows, 43 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
