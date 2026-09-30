@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 29 September 2026* <!-- 2026-09-29 -->
+*Last updated: 01 October 2026* <!-- 2026-10-01 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -24,7 +24,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Hit@5 0.892 / MRR@5 0.769 on a 65-query gold set, @ $0 infra (Supabase free tier)<br>
-• 456 reusable protocols (422 active across 26 categories), 75 slash commands, 43 skills, 503 case studies<br>
+• 457 reusable protocols (423 active across 26 categories), 75 slash commands, 43 skills, 561 case studies<br>
 • Conditional skill activation (~40-60% token savings)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
@@ -70,20 +70,20 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 
 ---
 
-## 📊 Athena v10.0.1 — By the Numbers
+## 📊 Athena v10.0.2 — By the Numbers
 
 > *A local-first agentic PKM that helps you make better decisions with your own context. Own the state. Rent the intelligence.*
 
 | Metric | Value | What It Means |
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
-| **Protocols** | **456 (422 active)** | Open-sourced decision frameworks across 26 categories (reasoning, risk, execution, research) |
-| **Case Studies** | **503 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
+| **Protocols** | **457 (423 active)** | Open-sourced decision frameworks across 26 categories (reasoning, risk, execution, research) |
+| **Case Studies** | **561 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
 | **Hybrid RAG** | **Hit@5 0.892** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.769, coverage 0.639, [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **43 active** | Cognitive Cluster architecture — 43 active (17 archived) with conditional activation |
 | **Workflows** | **75 commands** | Slash triggers: 55 root + 20 domain-tier workflows |
-| **Automation** | **285 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **5,068 files** | Grounded episodic and semantic knowledge corpus |
+| **Automation** | **290 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
+| **Memory Corpus** | **5,103 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering & Focus Areas:**
