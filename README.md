@@ -24,7 +24,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Hit@5 0.892 / MRR@5 0.769 on a 65-query gold set, @ $0 infra (Supabase free tier)<br>
-• 457 reusable protocols (423 active across 26 categories), 75 slash commands, 43 skills, 561 case studies<br>
+• 458 reusable protocols (424 active across 26 categories), 75 slash commands, 43 skills, 561 case studies<br>
 • Conditional skill activation (~40-60% token savings)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
@@ -77,7 +77,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 | Metric | Value | What It Means |
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
-| **Protocols** | **457 (423 active)** | Open-sourced decision frameworks across 26 categories (reasoning, risk, execution, research) |
+| **Protocols** | **458 (424 active)** | Open-sourced decision frameworks across 26 categories (reasoning, risk, execution, research) |
 | **Case Studies** | **561 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
 | **Hybrid RAG** | **Hit@5 0.892** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.769, coverage 0.639, [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **43 active** | Cognitive Cluster architecture — 43 active (17 archived) with conditional activation |
@@ -106,7 +106,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 | Capability | Evidence |
 |:-----------|:---------|
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + RRF fusion + rerank. Hit@5 0.892, $0/month infra |
-| **Agentic AI Systems** | 422 active protocols, 75 workflows, 43 skills — full agent lifecycle (boot → work → shutdown) |
+| **Agentic AI Systems** | 424 active protocols, 75 workflows, 43 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
