@@ -1,10 +1,10 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 01 October 2026* <!-- 2026-10-01 -->
+*Last updated: 05 October 2026* <!-- 2026-10-05 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
-I build **agentic PKM** infrastructure — local-first systems that give any LLM persistent memory and your context, so it helps you decide rather than starting cold every time. **Own the state, rent the intelligence.**
+I build the **compounding context layer for AI coding agents**, portable across IDEs. It gives any LLM persistent memory and your lived context, so you own the state while renting the intelligence. **Own the state, rent the intelligence.**
 
 **Website:** [winstonkoh87.com](https://winstonkoh87.com)
 
@@ -20,12 +20,12 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 </tr>
 <tr>
 <td><strong><a href="https://github.com/winstonkoh87/Athena-Public">Athena</a></strong></td>
-<td>Open-source local-first agentic PKM — persistent memory, structured reasoning, and governed AI agents that work across any LLM (Gemini, Claude, GPT). Full data ownership.</td>
+<td>The open-source compounding context layer for AI coding agents, portable across IDEs. Plain Markdown on disk with automated session lifecycle, cross-model portability, and governed execution. Full data ownership.</td>
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
-• Hit@5 0.892 / MRR@5 0.769 on a 65-query gold set, @ $0 infra (Supabase free tier)<br>
-• 458 reusable protocols (424 active across 26 categories), 75 slash commands, 43 skills, 561 case studies<br>
-• Conditional skill activation (~40-60% token savings)<br>
+• Strict Hit@5 0.569 / MRR@5 0.472 on a 65-query gold set (Anti-Goodhart benchmark shift), @ $0 infra<br>
+• Battle-tested across 2,100+ sessions by the creator, with 424 active personal protocols and 561 case studies in production<br>
+• Zero-touch session boot + one-command distillation (/end)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
 </td>
@@ -72,14 +72,14 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 
 ## 📊 Athena v10.0.2 — By the Numbers
 
-> *A local-first agentic PKM that helps you make better decisions with your own context. Own the state. Rent the intelligence.*
+> *The compounding context layer for AI coding agents, portable across IDEs. Own the state. Rent the intelligence.*
 
 | Metric | Value | What It Means |
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
-| **Protocols** | **458 (424 active)** | Open-sourced decision frameworks across 26 categories (reasoning, risk, execution, research) |
+| **Protocols** | **458 (424 active)** | Author's decision frameworks across 26 categories (reasoning, risk, execution, research) |
 | **Case Studies** | **561 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
-| **Hybrid RAG** | **Hit@5 0.892** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.769, coverage 0.639, [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
+| **Hybrid RAG** | **Strict Hit@5 0.569** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.472 (anti-Goodhart shift from legacy lenient 0.892 vanity metric), [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **43 active** | Cognitive Cluster architecture — 43 active (17 archived) with conditional activation |
 | **Workflows** | **75 commands** | Slash triggers: 55 root + 20 domain-tier workflows |
 | **Automation** | **290 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
@@ -89,7 +89,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 **Key Engineering & Focus Areas:**
 
 - **Current Focus**: Stochastic Epistemology & Variance Architecture, Prop-Firm Quantitative Risk Models, Bionic Operator Framework, and Biomechanical Strength Standards
-- **Hybrid Search**: pgvector + BM25 keyword + RRF fusion + cross-encoder rerank — Hit@5 0.892 / MRR@5 0.769 on a published 65-query gold set, hardened through logged production regressions
+- **Hybrid Search**: pgvector + BM25 keyword + RRF fusion + cross-encoder rerank — Strict Hit@5 0.569 / MRR@5 0.472 on a published 65-query gold set (anti-Goodhart shift from legacy lenient 0.892 substring metric), hardened through logged production regressions
 - **Conditional Skill Activation**: Path/topic-triggered dormant skills reduce prompt bloat by ~40-60% (Protocol 530)
 - **Epistemic Honesty as a Feature**: public [Validation Status](https://github.com/winstonkoh87/Athena-Public#-validation-status--whats-proven-vs-whats-proposed) ladder grades every claim by evidence level; 18 Crossref-verified academic references ([APA list](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/REFERENCES.md)); mechanisms labeled code-enforced vs agent-discretion
 - **Guards That Can Actually Fail** ([v9.9.8](https://github.com/winstonkoh87/Athena-Public/releases/tag/v9.9.8)): an audit found five green checks that could not detect the defect they named — a CI step running the writer instead of the check, a version check scoped to the three files that already agreed, `ruff --exit-zero`, tests asserting a return *type* instead of a behaviour, and a privacy scanner excluding its own config. Standing rule now: any fix to a guard must show it failing before it shows it passing, mutation-tested and recorded in the commit
@@ -105,7 +105,7 @@ I build **agentic PKM** infrastructure — local-first systems that give any LLM
 
 | Capability | Evidence |
 |:-----------|:---------|
-| **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + RRF fusion + rerank. Hit@5 0.892, $0/month infra |
+| **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + RRF fusion + rerank. Strict Hit@5 0.569, $0/month infra |
 | **Agentic AI Systems** | 424 active protocols, 75 workflows, 43 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro, zero-JS-first architecture |
