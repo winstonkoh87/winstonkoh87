@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 05 October 2026* <!-- 2026-10-05 -->
+*Last updated: 06 October 2026* <!-- 2026-10-06 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -24,7 +24,7 @@ I build the **compounding context layer for AI coding agents**, portable across 
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Strict Hit@5 0.569 / MRR@5 0.472 on a 65-query gold set (Anti-Goodhart benchmark shift), @ $0 infra<br>
-• Battle-tested across 2,100+ sessions by the creator, with 424 active personal protocols and 561 case studies in production<br>
+• Battle-tested across 2,100+ sessions by the creator, with 426 active personal protocols and 561 case studies in production<br>
 • Zero-touch session boot + one-command distillation (/end)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
@@ -106,7 +106,7 @@ I build the **compounding context layer for AI coding agents**, portable across 
 | Capability | Evidence |
 |:-----------|:---------|
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + RRF fusion + rerank. Strict Hit@5 0.569, $0/month infra |
-| **Agentic AI Systems** | 424 active protocols, 75 workflows, 43 skills — full agent lifecycle (boot → work → shutdown) |
+| **Agentic AI Systems** | 426 active protocols, 76 workflows, 44 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
