@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 06 October 2026* <!-- 2026-10-06 -->
+*Last updated: 08 October 2026* <!-- 2026-10-08 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -70,20 +70,20 @@ I build the **compounding context layer for AI coding agents**, portable across 
 
 ---
 
-## 📊 Athena v10.0.2 — By the Numbers
+## 📊 Athena v10.0.5 — By the Numbers
 
 > *The compounding context layer for AI coding agents, portable across IDEs. Own the state. Rent the intelligence.*
 
 | Metric | Value | What It Means |
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
-| **Protocols** | **458 (424 active)** | Author's decision frameworks across 26 categories (reasoning, risk, execution, research) |
+| **Protocols** | **460 (426 active)** | Author's decision frameworks across 26 categories (reasoning, risk, execution, research) |
 | **Case Studies** | **561 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
 | **Hybrid RAG** | **Strict Hit@5 0.569** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.472 (anti-Goodhart shift from legacy lenient 0.892 vanity metric), [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
-| **Skills** | **43 active** | Cognitive Cluster architecture — 43 active (17 archived) with conditional activation |
-| **Workflows** | **75 commands** | Slash triggers: 55 root + 20 domain-tier workflows |
-| **Automation** | **290 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **5,103 files** | Grounded episodic and semantic knowledge corpus |
+| **Skills** | **44 active** | Cognitive Cluster architecture — 44 active (17 archived) with conditional activation |
+| **Workflows** | **76 commands** | Slash triggers: 56 root + 20 domain-tier workflows |
+| **Automation** | **291 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
+| **Memory Corpus** | **5,281 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering & Focus Areas:**
