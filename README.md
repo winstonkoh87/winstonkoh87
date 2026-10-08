@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 08 October 2026* <!-- 2026-10-08 -->
+*Last updated: 09 October 2026* <!-- 2026-10-09 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -83,7 +83,7 @@ I build the **compounding context layer for AI coding agents**, portable across 
 | **Skills** | **44 active** | Cognitive Cluster architecture — 44 active (17 archived) with conditional activation |
 | **Workflows** | **76 commands** | Slash triggers: 56 root + 20 domain-tier workflows |
 | **Automation** | **291 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **5,281 files** | Grounded episodic and semantic knowledge corpus |
+| **Memory Corpus** | **5,305 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering & Focus Areas:**
