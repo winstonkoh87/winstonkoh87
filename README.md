@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 09 October 2026* <!-- 2026-10-09 -->
+*Last updated: 10 October 2026* <!-- 2026-10-10 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -81,14 +81,14 @@ I build the **compounding context layer for AI coding agents**, portable across 
 | **Case Studies** | **561 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
 | **Hybrid RAG** | **Strict Hit@5 0.569** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.472 (anti-Goodhart shift from legacy lenient 0.892 vanity metric), [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **44 active** | Cognitive Cluster architecture — 44 active (17 archived) with conditional activation |
-| **Workflows** | **76 commands** | Slash triggers: 56 root + 20 domain-tier workflows |
+| **Workflows** | **77 commands** | Slash triggers: 56 root + 21 domain-tier workflows |
 | **Automation** | **291 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **5,305 files** | Grounded episodic and semantic knowledge corpus |
+| **Memory Corpus** | **5,329 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering & Focus Areas:**
 
-- **Current Focus**: Stochastic Epistemology & Variance Architecture, Prop-Firm Quantitative Risk Models, Bionic Operator Framework, and Biomechanical Strength Standards
+- **Current Focus**: Stochastic Epistemology & Quantitative Variance Architecture, Clean-House Zero-Drift Reconciliation, Bionic Operator Framework, and Biomechanical Strength Standards
 - **Hybrid Search**: pgvector + BM25 keyword + RRF fusion + cross-encoder rerank — Strict Hit@5 0.569 / MRR@5 0.472 on a published 65-query gold set (anti-Goodhart shift from legacy lenient 0.892 substring metric), hardened through logged production regressions
 - **Conditional Skill Activation**: Path/topic-triggered dormant skills reduce prompt bloat by ~40-60% (Protocol 530)
 - **Epistemic Honesty as a Feature**: public [Validation Status](https://github.com/winstonkoh87/Athena-Public#-validation-status--whats-proven-vs-whats-proposed) ladder grades every claim by evidence level; 18 Crossref-verified academic references ([APA list](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/REFERENCES.md)); mechanisms labeled code-enforced vs agent-discretion
@@ -106,7 +106,7 @@ I build the **compounding context layer for AI coding agents**, portable across 
 | Capability | Evidence |
 |:-----------|:---------|
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + RRF fusion + rerank. Strict Hit@5 0.569, $0/month infra |
-| **Agentic AI Systems** | 426 active protocols, 76 workflows, 44 skills — full agent lifecycle (boot → work → shutdown) |
+| **Agentic AI Systems** | 426 active protocols, 77 workflows, 44 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
