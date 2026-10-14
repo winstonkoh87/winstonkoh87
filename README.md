@@ -1,10 +1,10 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 11 October 2026* <!-- 2026-10-11 -->
+*Last updated: 15 October 2026* <!-- 2026-10-15 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
-I build the **compounding context layer for AI coding agents**, portable across IDEs. It gives any LLM persistent memory and your lived context, so you own the state while renting the intelligence. **Own the state, rent the intelligence.**
+I build the **compounding context layer for AI coding agents**, portable across IDEs — persistent memory, structured reasoning, and governed AI agents that work across any LLM. **Own the state, rent the intelligence.**
 
 **Website:** [winstonkoh87.com](https://winstonkoh87.com)
 
@@ -20,7 +20,7 @@ I build the **compounding context layer for AI coding agents**, portable across 
 </tr>
 <tr>
 <td><strong><a href="https://github.com/winstonkoh87/Athena-Public">Athena</a></strong></td>
-<td>The open-source compounding context layer for AI coding agents, portable across IDEs. Plain Markdown on disk with automated session lifecycle, cross-model portability, and governed execution. Full data ownership.</td>
+<td>The open-source compounding context layer for AI coding agents, portable across IDEs. Persistent memory, structured reasoning, and governed AI agents that work across any LLM with plain Markdown on disk, automated session lifecycle, cross-model portability, and full data ownership.</td>
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Strict Hit@5 0.569 / MRR@5 0.472 on a 65-query gold set (Anti-Goodhart benchmark shift), @ $0 infra<br>
