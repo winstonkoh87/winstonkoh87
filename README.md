@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 15 October 2026* <!-- 2026-10-15 -->
+*Last updated: 16 October 2026* <!-- 2026-10-16 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -83,13 +83,13 @@ I build the **compounding context layer for AI coding agents**, portable across 
 | **Skills** | **44 active** | Cognitive Cluster architecture — 44 active (17 archived) with conditional activation |
 | **Workflows** | **77 commands** | Slash triggers: 56 root + 21 domain-tier workflows |
 | **Automation** | **292 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **5,365 files** | Grounded episodic and semantic knowledge corpus |
+| **Memory Corpus** | **5,445 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering & Focus Areas:**
 
 - **Current Focus**: Stochastic Epistemology & Quantitative Variance Architecture, Clean-House Zero-Drift Reconciliation, Bionic Operator Framework, and Biomechanical Strength Standards
-- **Hybrid Search**: pgvector + BM25 keyword + RRF fusion + cross-encoder rerank — Strict Hit@5 0.569 / MRR@5 0.472 on a published 65-query gold set (anti-Goodhart shift from legacy lenient 0.892 substring metric), hardened through logged production regressions
+- **Hybrid Search**: pgvector + BM25 keyword + document-level RRF fusion + cross-encoder rerank with code header extraction — Strict Hit@5 0.569 / MRR@5 0.472 on a published 65-query gold set, cache isolated under schema 2026-10-15.1, hardened through logged production regressions
 - **Conditional Skill Activation**: Path/topic-triggered dormant skills reduce prompt bloat by ~40-60% (Protocol 530)
 - **Epistemic Honesty as a Feature**: public [Validation Status](https://github.com/winstonkoh87/Athena-Public#-validation-status--whats-proven-vs-whats-proposed) ladder grades every claim by evidence level; 18 Crossref-verified academic references ([APA list](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/REFERENCES.md)); mechanisms labeled code-enforced vs agent-discretion
 - **Guards That Can Actually Fail** ([v9.9.8](https://github.com/winstonkoh87/Athena-Public/releases/tag/v9.9.8)): an audit found five green checks that could not detect the defect they named — a CI step running the writer instead of the check, a version check scoped to the three files that already agreed, `ruff --exit-zero`, tests asserting a return *type* instead of a behaviour, and a privacy scanner excluding its own config. Standing rule now: any fix to a guard must show it failing before it shows it passing, mutation-tested and recorded in the commit
