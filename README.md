@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 16 October 2026* <!-- 2026-10-16 -->
+*Last updated: 17 October 2026* <!-- 2026-10-17 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -82,13 +82,13 @@ I build the **compounding context layer for AI coding agents**, portable across 
 | **Hybrid RAG** | **Strict Hit@5 0.569** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.472 (anti-Goodhart shift from legacy lenient 0.892 vanity metric), [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **44 active** | Cognitive Cluster architecture — 44 active (17 archived) with conditional activation |
 | **Workflows** | **77 commands** | Slash triggers: 56 root + 21 domain-tier workflows |
-| **Automation** | **292 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **5,445 files** | Grounded episodic and semantic knowledge corpus |
+| **Automation** | **294 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
+| **Memory Corpus** | **5,466 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering & Focus Areas:**
 
-- **Current Focus**: Stochastic Epistemology & Quantitative Variance Architecture, Clean-House Zero-Drift Reconciliation, Bionic Operator Framework, and Biomechanical Strength Standards
+- **Current Focus**: Sovereign Airspace & Strategic Depth Forensics, Inverted Clausewitzian Cognitive Conquest Modeling, Taiwan Strait Siege Logistics, Echelon Defense-in-Depth Risk Sizing, and Bionic Operator Framework
 - **Hybrid Search**: pgvector + BM25 keyword + document-level RRF fusion + cross-encoder rerank with code header extraction — Strict Hit@5 0.569 / MRR@5 0.472 on a published 65-query gold set, cache isolated under schema 2026-10-15.1, hardened through logged production regressions
 - **Conditional Skill Activation**: Path/topic-triggered dormant skills reduce prompt bloat by ~40-60% (Protocol 530)
 - **Epistemic Honesty as a Feature**: public [Validation Status](https://github.com/winstonkoh87/Athena-Public#-validation-status--whats-proven-vs-whats-proposed) ladder grades every claim by evidence level; 18 Crossref-verified academic references ([APA list](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/REFERENCES.md)); mechanisms labeled code-enforced vs agent-discretion
