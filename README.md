@@ -4,7 +4,7 @@
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
-I build the **compounding context layer for AI coding agents**, portable across IDEs — persistent memory, structured reasoning, and governed AI agents that work across any LLM. **Own the state, rent the intelligence.**
+I build **local-first memory, decision engines, and governance harnesses for AI agents**, portable across IDEs — persistent memory, structured reasoning, and governed AI agents that work across any LLM. **Own the state, rent the intelligence.**
 
 **Website:** [winstonkoh87.com](https://winstonkoh87.com)
 
@@ -20,11 +20,12 @@ I build the **compounding context layer for AI coding agents**, portable across 
 </tr>
 <tr>
 <td><strong><a href="https://github.com/winstonkoh87/Athena-Public">Athena</a></strong></td>
-<td>The open-source compounding context layer for AI coding agents, portable across IDEs. Persistent memory, structured reasoning, and governed AI agents that work across any LLM with plain Markdown on disk, automated session lifecycle, cross-model portability, and full data ownership.</td>
+<td>Local-first memory, decision engine, and governance harness for AI agents — portable across IDEs. Persistent memory, numerical decision screening (EEV, Law #1 ruin gate, VOI frame ledger), and governed execution across any LLM with plain Markdown on disk, automated session lifecycle, cross-model portability, and full data ownership.</td>
 <td>
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
+• Deterministic decision engine (`gto_engine.py`, `frame_ledger.py`) with Law #1 ruin pre-filters and Two-Loop state machine<br>
 • Strict Hit@5 0.569 / MRR@5 0.472 on a 65-query gold set (Anti-Goodhart benchmark shift), @ $0 infra<br>
-• Battle-tested across 2,100+ sessions by the creator, with 426 active personal protocols and 561 case studies in production<br>
+• Battle-tested across 2,100+ sessions by the creator, with 426 active personal protocols and 587 case studies in production<br>
 • Zero-touch session boot + one-command distillation (/end)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
@@ -70,15 +71,15 @@ I build the **compounding context layer for AI coding agents**, portable across 
 
 ---
 
-## 📊 Athena v10.0.5 — By the Numbers
+## 📊 Athena v10.0.6 — By the Numbers
 
-> *The compounding context layer for AI coding agents, portable across IDEs. Own the state. Rent the intelligence.*
+> *Local-first memory, decision engine, and governance harness for AI agents — portable across IDEs. Own the state. Rent the intelligence.*
 
 | Metric | Value | What It Means |
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
 | **Protocols** | **460 (426 active)** | Author's decision frameworks across 26 categories (reasoning, risk, execution, research) |
-| **Case Studies** | **561 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
+| **Case Studies** | **587 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
 | **Hybrid RAG** | **Strict Hit@5 0.569** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.472 (anti-Goodhart shift from legacy lenient 0.892 vanity metric), [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **44 active** | Cognitive Cluster architecture — 44 active (17 archived) with conditional activation |
 | **Workflows** | **77 commands** | Slash triggers: 56 root + 21 domain-tier workflows |
