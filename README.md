@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 25 October 2026* <!-- 2026-10-25 -->
+*Last updated: 26 October 2026* <!-- 2026-10-26 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -25,7 +25,7 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Deterministic decision engine (`gto_engine.py`, `frame_ledger.py`) with Law #1 ruin pre-filters and Two-Loop state machine<br>
 • Strict Hit@5 0.569 / MRR@5 0.472 on a 65-query gold set (Anti-Goodhart benchmark shift), @ $0 infra<br>
-• Battle-tested across 2,100+ sessions by the creator, with 427 active personal protocols and 604 case studies in production<br>
+• Battle-tested across 2,100+ sessions by the creator, with 428 active personal protocols and 605 case studies in production<br>
 • Zero-touch session boot + one-command distillation (/end)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
@@ -78,13 +78,13 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 | Metric | Value | What It Means |
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
-| **Protocols** | **461 (427 active)** | Author's decision frameworks across 26 categories (reasoning, risk, execution, research) |
-| **Case Studies** | **604 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
+| **Protocols** | **462 (428 active)** | Author's decision frameworks across 26 categories (reasoning, risk, execution, research) |
+| **Case Studies** | **605 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
 | **Hybrid RAG** | **Strict Hit@5 0.569** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.472 (anti-Goodhart shift from legacy lenient 0.892 vanity metric), [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **44 active** | Cognitive Cluster architecture — 44 active (17 archived) with conditional activation |
 | **Workflows** | **77 commands** | Slash triggers: 56 root + 21 domain-tier workflows |
-| **Automation** | **300 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **5,626 files** | Grounded episodic and semantic knowledge corpus |
+| **Automation** | **299 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
+| **Memory Corpus** | **5,636 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering & Focus Areas:**
@@ -107,7 +107,7 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 | Capability | Evidence |
 |:-----------|:---------|
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + RRF fusion + rerank. Strict Hit@5 0.569, $0/month infra |
-| **Agentic AI Systems** | 427 active protocols, 77 workflows, 44 skills — full agent lifecycle (boot → work → shutdown) |
+| **Agentic AI Systems** | 428 active protocols, 77 workflows, 44 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
