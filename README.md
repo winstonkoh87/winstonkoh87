@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 27 October 2026* <!-- 2026-10-27 -->
+*Last updated: 28 October 2026* <!-- 2026-10-28 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -25,7 +25,7 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Deterministic decision engine (`gto_engine.py`, `frame_ledger.py`) with Law #1 ruin pre-filters and Two-Loop state machine<br>
 • Strict Hit@5 0.569 / MRR@5 0.472 on a 65-query gold set (Anti-Goodhart benchmark shift), @ $0 infra<br>
-• Battle-tested across 2,100+ sessions by the creator, with 428 active personal protocols and 607 case studies in production<br>
+• Battle-tested across 2,100+ sessions by the creator, with 428 active personal protocols and 609 case studies in production<br>
 • Zero-touch session boot + one-command distillation (/end)<br>
 • 1M+ Reddit views + 960+ unique cloners at launch<br>
 • 7 IDE integrations, MIT licensed
@@ -79,12 +79,12 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
 | **Protocols** | **462 (428 active)** | Author's decision frameworks across 26 categories (reasoning, risk, execution, research) |
-| **Case Studies** | **607 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
+| **Case Studies** | **609 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
 | **Hybrid RAG** | **Strict Hit@5 0.569** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.472 (anti-Goodhart shift from legacy lenient 0.892 vanity metric), [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **44 active** | Cognitive Cluster architecture — 44 active (17 archived) with conditional activation |
 | **Workflows** | **77 commands** | Slash triggers: 56 root + 21 domain-tier workflows |
 | **Automation** | **299 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **5,658 files** | Grounded episodic and semantic knowledge corpus |
+| **Memory Corpus** | **5,692 files** | Grounded episodic and semantic knowledge corpus |
 | **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
 
 **Key Engineering & Focus Areas:**
