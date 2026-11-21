@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 19 November 2026* <!-- 2026-11-19 -->
+*Last updated: 21 November 2026* <!-- 2026-11-21 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -25,9 +25,9 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Deterministic decision engine (`gto_engine.py`, `frame_ledger.py`) with Law #1 ruin pre-filters and Two-Loop state machine<br>
 • Strict Hit@5 0.569 / MRR@5 0.472 on a 65-query gold set (Anti-Goodhart benchmark shift), @ $0 infra<br>
-• Battle-tested across 2,100+ sessions by the creator, with 410 active personal protocols and 632 case studies in production<br>
+• Battle-tested across 2,100+ sessions by the creator, with 410 active personal protocols and 633 case studies in production<br>
 • Zero-touch session boot + one-command distillation (/end)<br>
-• 1M+ Reddit views + 960+ unique cloners at launch<br>
+• 1.5M+ cumulative Reddit views (2,300+ upvotes) · 648+ GitHub stars · 960+ unique launch cloners<br>
 • 7 IDE integrations, MIT licensed
 </td>
 </tr>
@@ -35,7 +35,7 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 <td><strong><a href="https://winstonkoh87.com">Portfolio</a></strong></td>
 <td>11-page performance-first portfolio with 26 articles and 6 live demos</td>
 <td>
-• Astro 5.0 + Tailwind CSS (zero-JS islands)<br>
+• Astro 7 + Tailwind CSS 4 (zero-JS islands)<br>
 • Zero-JS-first architecture, 99/100 Lighthouse
 </td>
 </tr>
@@ -79,20 +79,20 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
 | **Protocols** | **461 (410 active)** | Author's decision frameworks across 26 categories (reasoning, risk, execution, research) |
-| **Case Studies** | **632 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
+| **Case Studies** | **633 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
 | **Hybrid RAG** | **Strict Hit@5 0.569** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.472 (anti-Goodhart shift from legacy lenient 0.892 vanity metric), [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **44 active** | Cognitive Cluster architecture — 44 active (17 archived) with conditional activation |
 | **Workflows** | **78 commands** | Slash triggers: 57 root + 21 domain-tier workflows |
-| **Automation** | **288 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **6,066 files** | Grounded episodic and semantic knowledge corpus |
-| **Launch Reach** | **1M+ views** | Reddit launch post — 960+ unique cloners, 4.5K+ unique visitors |
+| **Automation** | **290 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
+| **Memory Corpus** | **6,102 files** | Grounded episodic and semantic knowledge corpus |
+| **Community Reach** | **1.5M+ Reddit views** | 2,300+ upvotes across r/ChatGPT, r/GeminiAI & r/ClaudeCode · 648★ / 86 forks · 960+ unique launch cloners |
 
 **Key Engineering & Focus Areas:**
 
 - **Current Focus**: Open-Source Engineering Standards, OpSec History Obliteration & Repository Hardening, Vibe-Coding Architecture Inversion, Operational OSINT Forensics, and Bionic Operator Framework
 - **Hybrid Search**: pgvector + BM25 keyword + document-level RRF fusion + cross-encoder rerank with code header extraction — Strict Hit@5 0.569 / MRR@5 0.472 on a published 65-query gold set, cache isolated under schema 2026-10-15.1, hardened through logged production regressions
 - **Conditional Skill Activation**: Path/topic-triggered dormant skills reduce prompt bloat by ~40-60% (Protocol 530)
-- **Epistemic Honesty as a Feature**: public [Validation Status](https://github.com/winstonkoh87/Athena-Public#-validation-status--whats-proven-vs-whats-proposed) ladder grades every claim by evidence level; 18 Crossref-verified academic references ([APA list](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/REFERENCES.md)); mechanisms labeled code-enforced vs agent-discretion
+- **Epistemic Honesty as a Feature**: public [Validation Status](https://github.com/winstonkoh87/Athena-Public#-validation-status--whats-proven-vs-whats-proposed) ladder grades every claim by evidence level; 50 Crossref-verified DOIs & 39 arXiv citations ([APA list](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/REFERENCES.md)); mechanisms labeled code-enforced vs agent-discretion
 - **Guards That Can Actually Fail** ([v9.9.8](https://github.com/winstonkoh87/Athena-Public/releases/tag/v9.9.8)): an audit found five green checks that could not detect the defect they named — a CI step running the writer instead of the check, a version check scoped to the three files that already agreed, `ruff --exit-zero`, tests asserting a return *type* instead of a behaviour, and a privacy scanner excluding its own config. Standing rule now: any fix to a guard must show it failing before it shows it passing, mutation-tested and recorded in the commit
 - **Multi-Agent Orchestration**: Coordinator synthesis discipline with anti-delegation enforcement and token budgeting
 - **Atomic Writes**: POSIX-compliant data safety for all memory operations
