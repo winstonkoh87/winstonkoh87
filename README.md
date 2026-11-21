@@ -27,7 +27,7 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 • Strict Hit@5 0.569 / MRR@5 0.472 on a 65-query gold set (Anti-Goodhart benchmark shift), @ $0 infra<br>
 • Battle-tested across 2,100+ sessions by the creator, with 410 active personal protocols and 633 case studies in production<br>
 • Zero-touch session boot + one-command distillation (/end)<br>
-• 1.5M+ cumulative Reddit views (2,300+ upvotes) · 648+ GitHub stars · 960+ unique launch cloners<br>
+• 1.4M+ cumulative Reddit views (2,300+ upvotes) · 648+ GitHub stars · 960+ unique launch cloners<br>
 • 7 IDE integrations, MIT licensed
 </td>
 </tr>
@@ -85,7 +85,7 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 | **Workflows** | **78 commands** | Slash triggers: 57 root + 21 domain-tier workflows |
 | **Automation** | **290 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
 | **Memory Corpus** | **6,102 files** | Grounded episodic and semantic knowledge corpus |
-| **Community Reach** | **1.5M+ Reddit views** | 2,300+ upvotes across r/ChatGPT, r/GeminiAI & r/ClaudeCode · 648★ / 86 forks · 960+ unique launch cloners |
+| **Community Reach** | **1.4M+ Reddit views** | 2,300+ upvotes across r/ChatGPT, r/GeminiAI & r/ClaudeCode · 648★ / 86 forks · 960+ unique launch cloners |
 
 **Key Engineering & Focus Areas:**
 
