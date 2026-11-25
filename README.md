@@ -1,6 +1,6 @@
 # Hi, I'm Winston Koh 👋
 
-*Last updated: 24 November 2026* <!-- 2026-11-24 -->
+*Last updated: 26 November 2026* <!-- 2026-11-26 -->
 
 **AI Systems Engineer** | Creator of [Project Athena](https://github.com/winstonkoh87/Athena-Public) | Singapore 🇸🇬
 
@@ -25,7 +25,7 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 • Chunk-level hybrid RAG (BM25 + semantic + RRF fusion + cross-encoder rerank)<br>
 • Deterministic decision engine (`gto_engine.py`, `frame_ledger.py`) with Law #1 ruin pre-filters and Two-Loop state machine<br>
 • Strict Hit@5 0.569 / MRR@5 0.472 on a 65-query gold set (Anti-Goodhart benchmark shift), @ $0 infra<br>
-• Battle-tested across 2,100+ sessions by the creator, with 410 active personal protocols and 633 case studies in production<br>
+• Battle-tested across 2,100+ sessions by the creator, with 410 active personal protocols and 636 case studies in production<br>
 • Zero-touch session boot + one-command distillation (/end)<br>
 • 1.5M+ cumulative Reddit views (2,300+ upvotes) · 652+ GitHub stars · 960+ unique launch cloners<br>
 • 7 IDE integrations, MIT licensed
@@ -79,18 +79,18 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 |:---|:---|:---|
 | **Sessions** | **2,100+** | Continuous context across 200+ days of bilateral use |
 | **Protocols** | **461 (410 active)** | Author's decision frameworks across 26 categories (reasoning, risk, execution, research) |
-| **Case Studies** | **633 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
+| **Case Studies** | **636 analyses** | Longitudinal decision case studies across trading, engineering, strategy, operations |
 | **Hybrid RAG** | **Strict Hit@5 0.569** | Chunk-level BM25 + semantic + RRF fusion + cross-encoder rerank — MRR@5 0.472 (anti-Goodhart shift from legacy lenient 0.892 vanity metric), [measured](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/BENCHMARKS.md) on a 65-query gold set |
 | **Skills** | **44 active** | Cognitive Cluster architecture — 44 active (17 archived) with conditional activation |
-| **Workflows** | **78 commands** | Slash triggers: 57 root + 21 domain-tier workflows |
+| **Workflows** | **79 commands** | Slash triggers: 57 root + 22 domain-tier workflows |
 | **Automation** | **290 scripts** | Python automation stack (boot, shutdown, search, sync, hooks, governance) |
-| **Memory Corpus** | **6,102 files** | Grounded episodic and semantic knowledge corpus |
+| **Memory Corpus** | **6,190 files** | Grounded episodic and semantic knowledge corpus |
 | **Community Reach** | **1.5M+ Reddit views** | 2,300+ upvotes across r/ChatGPT, r/GeminiAI & r/ClaudeCode · 652★ / 87 forks · 960+ unique launch cloners |
 
 **Key Engineering & Focus Areas:**
 
 - **Current Focus**: Open-Source Engineering Standards, OpSec History Obliteration & Repository Hardening, Vibe-Coding Architecture Inversion, Operational OSINT Forensics, and Bionic Operator Framework
-- **Hybrid Search**: pgvector + BM25 keyword + document-level RRF fusion + cross-encoder rerank with code header extraction — Strict Hit@5 0.569 / MRR@5 0.472 on a published 65-query gold set, cache isolated under schema 2026-10-15.1, hardened through logged production regressions
+- **Hybrid Search**: pgvector + BM25 keyword + document-level RRF fusion + cross-encoder rerank with code header extraction — Strict Hit@5 0.569 / MRR@5 0.472 on a published 65-query gold set, cache isolated under schema 2026-11-26.1, hardened through logged production regressions
 - **Conditional Skill Activation**: Path/topic-triggered dormant skills reduce prompt bloat by ~40-60% (Protocol 530)
 - **Epistemic Honesty as a Feature**: public [Validation Status](https://github.com/winstonkoh87/Athena-Public#-validation-status--whats-proven-vs-whats-proposed) ladder grades every claim by evidence level; 50 Crossref-verified DOIs & 39 arXiv citations ([APA list](https://github.com/winstonkoh87/Athena-Public/blob/main/docs/REFERENCES.md)); mechanisms labeled code-enforced vs agent-discretion
 - **Guards That Can Actually Fail** ([v9.9.8](https://github.com/winstonkoh87/Athena-Public/releases/tag/v9.9.8)): an audit found five green checks that could not detect the defect they named — a CI step running the writer instead of the check, a version check scoped to the three files that already agreed, `ruff --exit-zero`, tests asserting a return *type* instead of a behaviour, and a privacy scanner excluding its own config. Standing rule now: any fix to a guard must show it failing before it shows it passing, mutation-tested and recorded in the commit
@@ -107,7 +107,7 @@ I build **local-first memory, decision engines, and governance harnesses for AI 
 | Capability | Evidence |
 |:-----------|:---------|
 | **RAG Pipeline Engineering** | Production hybrid search: BM25 + semantic + RRF fusion + rerank. Strict Hit@5 0.569, $0/month infra |
-| **Agentic AI Systems** | 410 active protocols, 78 workflows, 44 skills — full agent lifecycle (boot → work → shutdown) |
+| **Agentic AI Systems** | 410 active protocols, 79 workflows, 44 skills — full agent lifecycle (boot → work → shutdown) |
 | **Multi-Agent Coordination** | Parallel worktree orchestration, coordinator synthesis, conditional skill activation |
 | **Full-Stack Web Development** | [7 production sites](https://winstonkoh87.com/portfolio), Astro, zero-JS-first architecture |
 | **AI Consulting** | Active client engagements — diagnostics, AI integration strategy, workflow automation |
@@ -134,7 +134,7 @@ Looking for **pragmatic builders** who:
 - Value robustness over cleverness
 - Are comfortable with async communication
 
-📬 **Reach out**: [winstonkoh87@gmail.com](mailto:winstonkoh87@gmail.com) or DM on [LinkedIn](https://linkedin.com/in/winstonkoh87)
+📬 **Reach out**: [winstonkoh87@gmail.com](mailto:winstonkoh87@gmail.com) or DM on [LinkedIn](https://linkedin.com/in/winstonkoh87) <!-- pds:allow -->
 
 ---
 
@@ -142,7 +142,7 @@ Looking for **pragmatic builders** who:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-winstonkoh87.com-blue?style=flat&logo=github)](https://winstonkoh87.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-winstonkoh87-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/winstonkoh87)
-[![Email](https://img.shields.io/badge/Email-winstonkoh87%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:winstonkoh87@gmail.com)
+[![Email](https://img.shields.io/badge/Email-winstonkoh87%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:winstonkoh87@gmail.com) <!-- pds:allow -->
 
 ---
 
